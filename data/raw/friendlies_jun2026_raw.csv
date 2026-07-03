@@ -1,0 +1,182 @@
+match_id,date,competition,confederation,match_type,season,home_away,team,opponent,gols_marcados,gols_sofridos,shots,shots_on_goal,blocked_shots,ball_possession,fouls,yellow_cards,red_cards,corners,offsides,passes_accurate,saves,ast,has_shot_data,weight
+1501817,2026-04-01,International Friendlies 2026,FRIENDLY,friendly,2026,home,Brazil,Croatia,3,1,,,,,,,,,,,,,False,0.8
+1501817,2026-04-01,International Friendlies 2026,FRIENDLY,friendly,2026,away,Croatia,Brazil,1,3,,,,,,,,,,,,,False,0.8
+1501818,2026-05-31,International Friendlies 2026,FRIENDLY,friendly,2026,home,Germany,Finland,4,0,22.0,12.0,3.0,65.0,12.0,,,10.0,1.0,628.0,0.0,,True,0.8
+1502474,2026-06-06,International Friendlies 2026,FRIENDLY,friendly,2026,home,United States,Germany,1,2,16.0,4.0,5.0,52.0,11.0,1.0,,10.0,3.0,396.0,2.0,,True,0.8
+1502474,2026-06-06,International Friendlies 2026,FRIENDLY,friendly,2026,away,Germany,United States,2,1,12.0,4.0,2.0,48.0,10.0,3.0,,2.0,4.0,363.0,3.0,,True,0.8
+1503008,2026-05-31,International Friendlies 2026,FRIENDLY,friendly,2026,home,United States,Senegal,3,2,13.0,3.0,6.0,45.0,21.0,1.0,,3.0,0.0,274.0,2.0,,True,0.8
+1503008,2026-05-31,International Friendlies 2026,FRIENDLY,friendly,2026,away,Senegal,United States,2,3,7.0,3.0,1.0,55.0,9.0,0.0,,7.0,2.0,354.0,2.0,,True,0.8
+1511733,2026-06-01,International Friendlies 2026,FRIENDLY,friendly,2026,home,Austria,Tunisia,1,0,9.0,4.0,0.0,59.0,12.0,2.0,1.0,2.0,1.0,415.0,2.0,,True,0.8
+1511733,2026-06-01,International Friendlies 2026,FRIENDLY,friendly,2026,away,Tunisia,Austria,0,1,14.0,2.0,3.0,41.0,12.0,1.0,0.0,4.0,2.0,280.0,3.0,,True,0.8
+1511779,2026-05-30,International Friendlies 2026,FRIENDLY,friendly,2026,home,Scotland,Curacao,4,1,18.0,11.0,2.0,67.0,17.0,2.0,0.0,8.0,,535.0,2.0,,True,0.8
+1511779,2026-05-30,International Friendlies 2026,FRIENDLY,friendly,2026,away,Curacao,Scotland,1,4,9.0,3.0,2.0,33.0,11.0,2.0,1.0,2.0,,234.0,7.0,,True,0.8
+1512766,2026-06-02,International Friendlies 2026,FRIENDLY,friendly,2026,home,Croatia,Belgium,0,2,5.0,1.0,1.0,57.0,13.0,2.0,,3.0,4.0,469.0,3.0,,True,0.8
+1512766,2026-06-02,International Friendlies 2026,FRIENDLY,friendly,2026,away,Belgium,Croatia,2,0,8.0,4.0,1.0,43.0,13.0,2.0,,4.0,2.0,347.0,1.0,,True,0.8
+1512767,2026-06-06,International Friendlies 2026,FRIENDLY,friendly,2026,home,Belgium,Tunisia,5,0,27.0,12.0,9.0,66.0,9.0,0.0,0.0,13.0,2.0,496.0,1.0,,True,0.8
+1512767,2026-06-06,International Friendlies 2026,FRIENDLY,friendly,2026,away,Tunisia,Belgium,0,5,7.0,1.0,2.0,34.0,9.0,2.0,1.0,0.0,3.0,234.0,5.0,,True,0.8
+1512768,2026-06-07,International Friendlies 2026,FRIENDLY,friendly,2026,home,Croatia,Slovenia,2,1,22.0,6.0,6.0,67.0,5.0,,,8.0,,551.0,3.0,,True,0.8
+1514471,2026-04-01,International Friendlies 2026,FRIENDLY,friendly,2026,home,Mexico,Belgium,1,1,10.0,3.0,4.0,49.0,14.0,2.0,,3.0,3.0,424.0,1.0,,True,0.8
+1514471,2026-04-01,International Friendlies 2026,FRIENDLY,friendly,2026,away,Belgium,Mexico,1,1,5.0,2.0,0.0,51.0,20.0,3.0,,2.0,1.0,454.0,2.0,,True,0.8
+1514472,2026-06-02,International Friendlies 2026,FRIENDLY,friendly,2026,home,Canada,Uzbekistan,2,0,10.0,4.0,3.0,52.0,9.0,2.0,,7.0,3.0,384.0,2.0,,True,0.8
+1514472,2026-06-02,International Friendlies 2026,FRIENDLY,friendly,2026,away,Uzbekistan,Canada,0,2,6.0,2.0,1.0,48.0,15.0,2.0,,3.0,3.0,347.0,2.0,,True,0.8
+1525492,2026-06-06,International Friendlies 2026,FRIENDLY,friendly,2026,home,England,New Zealand,1,0,23.0,4.0,11.0,72.0,10.0,,,8.0,2.0,610.0,1.0,,True,0.8
+1525492,2026-06-06,International Friendlies 2026,FRIENDLY,friendly,2026,away,New Zealand,England,0,1,3.0,1.0,1.0,28.0,13.0,,,1.0,1.0,208.0,3.0,,True,0.8
+1527865,2026-05-31,International Friendlies 2026,FRIENDLY,friendly,2026,home,Mexico,Australia,1,0,13.0,3.0,8.0,59.0,7.0,1.0,,5.0,4.0,536.0,1.0,,True,0.8
+1527865,2026-05-31,International Friendlies 2026,FRIENDLY,friendly,2026,away,Australia,Mexico,0,1,7.0,1.0,3.0,41.0,10.0,1.0,,3.0,1.0,336.0,2.0,,True,0.8
+1528281,2026-05-23,International Friendlies 2026,FRIENDLY,friendly,2026,home,Mexico,Ghana,2,0,16.0,8.0,2.0,59.0,16.0,1.0,,9.0,2.0,496.0,3.0,,True,0.8
+1528281,2026-05-23,International Friendlies 2026,FRIENDLY,friendly,2026,away,Ghana,Mexico,0,2,7.0,3.0,1.0,41.0,9.0,1.0,,3.0,1.0,332.0,6.0,,True,0.8
+1528282,2026-05-28,International Friendlies 2026,FRIENDLY,friendly,2026,away,Qatar,Ireland,0,1,8.0,1.0,1.0,48.0,16.0,,1.0,3.0,3.0,356.0,2.0,,True,0.8
+1528283,2026-05-31,International Friendlies 2026,FRIENDLY,friendly,2026,home,Switzerland,Jordan,4,1,19.0,10.0,1.0,70.0,10.0,,,6.0,3.0,605.0,3.0,,True,0.8
+1528283,2026-05-31,International Friendlies 2026,FRIENDLY,friendly,2026,away,Jordan,Switzerland,1,4,12.0,4.0,3.0,30.0,9.0,,,4.0,1.0,219.0,6.0,,True,0.8
+1528284,2026-06-05,International Friendlies 2026,FRIENDLY,friendly,2026,home,Mexico,Serbia,5,1,17.0,7.0,2.0,67.0,12.0,2.0,,6.0,1.0,522.0,0.0,,True,0.8
+1528285,2026-06-05,International Friendlies 2026,FRIENDLY,friendly,2026,home,Canada,Ireland,1,1,3.0,1.0,0.0,57.0,0.0,,,1.0,1.0,45.0,0.0,,True,0.8
+1528286,2026-06-06,International Friendlies 2026,FRIENDLY,friendly,2026,home,Portugal,Chile,2,1,18.0,8.0,5.0,62.0,8.0,,1.0,9.0,3.0,463.0,3.0,,True,0.8
+1528287,2026-06-06,International Friendlies 2026,FRIENDLY,friendly,2026,home,Brazil,Egypt,2,1,12.0,7.0,3.0,53.0,9.0,1.0,,5.0,0.0,397.0,1.0,,True,0.8
+1528287,2026-06-06,International Friendlies 2026,FRIENDLY,friendly,2026,away,Egypt,Brazil,1,2,4.0,2.0,2.0,47.0,9.0,1.0,,3.0,1.0,351.0,4.0,,True,0.8
+1528288,2026-06-07,International Friendlies 2026,FRIENDLY,friendly,2026,home,Colombia,Jordan,2,0,4.0,3.0,0.0,67.0,4.0,,,1.0,3.0,281.0,0.0,,True,0.8
+1528288,2026-06-07,International Friendlies 2026,FRIENDLY,friendly,2026,away,Jordan,Colombia,0,2,4.0,0.0,1.0,33.0,6.0,,,1.0,0.0,120.0,1.0,,True,0.8
+1536926,2026-05-31,International Friendlies 2026,FRIENDLY,friendly,2026,home,Brazil,Panama,6,2,19.0,12.0,2.0,54.0,13.0,0.0,,1.0,1.0,463.0,8.0,,True,0.8
+1536926,2026-05-31,International Friendlies 2026,FRIENDLY,friendly,2026,away,Panama,Brazil,2,6,16.0,9.0,3.0,46.0,5.0,1.0,,1.0,1.0,379.0,6.0,,True,0.8
+1536927,2026-06-01,International Friendlies 2026,FRIENDLY,friendly,2026,home,Norway,Sweden,3,1,22.0,7.0,7.0,55.0,6.0,0.0,,6.0,2.0,499.0,3.0,,True,0.8
+1536927,2026-06-01,International Friendlies 2026,FRIENDLY,friendly,2026,away,Sweden,Norway,1,3,9.0,5.0,2.0,45.0,6.0,1.0,,1.0,2.0,425.0,4.0,,True,0.8
+1536929,2026-06-02,International Friendlies 2026,FRIENDLY,friendly,2026,away,Ghana,Wales,1,1,11.0,5.0,1.0,34.0,13.0,2.0,,4.0,4.0,259.0,2.0,,True,0.8
+1536930,2026-06-03,International Friendlies 2026,FRIENDLY,friendly,2026,home,Netherlands,Algeria,0,1,17.0,6.0,6.0,52.0,11.0,,,6.0,2.0,442.0,1.0,,True,0.8
+1536930,2026-06-03,International Friendlies 2026,FRIENDLY,friendly,2026,away,Algeria,Netherlands,1,0,8.0,2.0,4.0,48.0,9.0,,,3.0,2.0,388.0,6.0,,True,0.8
+1536931,2026-06-04,International Friendlies 2026,FRIENDLY,friendly,2026,home,France,Ivory Coast,1,2,15.0,6.0,3.0,60.0,8.0,0.0,,8.0,3.0,596.0,1.0,,True,0.8
+1536931,2026-06-04,International Friendlies 2026,FRIENDLY,friendly,2026,away,Ivory Coast,France,2,1,7.0,3.0,0.0,40.0,9.0,1.0,,2.0,3.0,380.0,5.0,,True,0.8
+1537648,2026-06-01,International Friendlies 2026,FRIENDLY,friendly,2026,home,Colombia,Costa Rica,3,1,8.0,4.0,1.0,67.0,5.0,1.0,,4.0,,209.0,2.0,,True,0.8
+1537650,2026-06-07,International Friendlies 2026,FRIENDLY,friendly,2026,home,Curacao,Aruba,4,0,,,,,,,,,,,,,False,0.8
+1540351,2026-05-31,International Friendlies 2026,FRIENDLY,friendly,2026,home,Japan,Iceland,1,0,15.0,7.0,5.0,55.0,11.0,0.0,,5.0,2.0,510.0,2.0,,True,0.8
+1540355,2026-06-07,International Friendlies 2026,FRIENDLY,friendly,2026,home,Argentina,Honduras,2,0,20.0,8.0,5.0,73.0,16.0,4.0,,6.0,1.0,747.0,0.0,,True,0.8
+1540947,2026-05-29,International Friendlies 2026,FRIENDLY,friendly,2026,home,Bosnia and Herzegovina,North Macedonia,0,0,13.0,3.0,5.0,69.0,12.0,0.0,0.0,2.0,4.0,,1.0,,True,0.8
+1540948,2026-05-31,International Friendlies 2026,FRIENDLY,friendly,2026,home,Ecuador,Saudi Arabia,2,1,11.0,6.0,1.0,42.0,16.0,1.0,,2.0,2.0,346.0,1.0,,True,0.8
+1540948,2026-05-31,International Friendlies 2026,FRIENDLY,friendly,2026,away,Saudi Arabia,Ecuador,1,2,12.0,2.0,2.0,58.0,11.0,1.0,,2.0,0.0,464.0,4.0,,True,0.8
+1540949,2026-06-06,International Friendlies 2026,FRIENDLY,friendly,2026,away,Scotland,Bolivia,4,0,20.0,8.0,5.0,46.0,16.0,1.0,,6.0,0.0,374.0,3.0,,True,0.8
+1540950,2026-06-07,International Friendlies 2026,FRIENDLY,friendly,2026,home,Morocco,Norway,1,1,13.0,5.0,2.0,46.0,6.0,1.0,,3.0,1.0,337.0,1.0,,True,0.8
+1540950,2026-06-07,International Friendlies 2026,FRIENDLY,friendly,2026,away,Norway,Morocco,1,1,9.0,2.0,4.0,54.0,12.0,1.0,,11.0,1.0,377.0,4.0,,True,0.8
+1542181,2026-06-06,International Friendlies 2026,FRIENDLY,friendly,2026,home,Switzerland,Australia,1,1,9.0,3.0,1.0,63.0,10.0,3.0,,7.0,4.0,634.0,1.0,,True,0.8
+1542181,2026-06-06,International Friendlies 2026,FRIENDLY,friendly,2026,away,Australia,Switzerland,1,1,5.0,2.0,1.0,37.0,14.0,2.0,,2.0,1.0,347.0,2.0,,True,0.8
+1542182,2026-06-07,International Friendlies 2026,FRIENDLY,friendly,2026,home,Ecuador,Guatemala,3,0,18.0,6.0,5.0,66.0,11.0,3.0,,6.0,2.0,674.0,0.0,,True,0.8
+1542183,2026-06-08,International Friendlies 2026,FRIENDLY,friendly,2026,home,France,Northern Ireland,3,1,27.0,5.0,9.0,73.0,6.0,,,5.0,5.0,769.0,1.0,,True,0.8
+1542552,2026-06-04,International Friendlies 2026,FRIENDLY,friendly,2026,home,Sweden,Greece,2,2,13.0,5.0,1.0,53.0,6.0,0.0,,1.0,0.0,485.0,2.0,,True,0.8
+1542891,2026-06-04,International Friendlies 2026,FRIENDLY,friendly,2026,home,Panama,Dominican Republic,4,2,,,,,,,,,,,,,False,0.8
+1542893,2026-06-05,International Friendlies 2026,FRIENDLY,friendly,2026,home,Czech Republic,Guatemala,3,1,,,,,,,,,,,,,False,0.8
+1543816,2026-05-28,International Friendlies 2026,FRIENDLY,friendly,2026,home,Egypt,Russia,1,0,,,,,,,,,,,,,False,0.8
+1543817,2026-05-29,International Friendlies 2026,FRIENDLY,friendly,2026,home,South Africa,Nicaragua,0,0,,,,,,,,,,,,,False,0.8
+1543819,2026-05-31,International Friendlies 2026,FRIENDLY,friendly,2026,home,Cape Verde,Serbia,3,0,,,,,,,,,,,,,False,0.8
+1543821,2026-06-01,International Friendlies 2026,FRIENDLY,friendly,2026,home,Turkey,North Macedonia,4,0,,,,,,,,,,,,,False,0.8
+1543822,2026-06-03,International Friendlies 2026,FRIENDLY,friendly,2026,home,DR Congo,Denmark,0,0,,,,,,,,,,,,,False,0.8
+1543828,2026-06-05,International Friendlies 2026,FRIENDLY,friendly,2026,home,Paraguay,Nicaragua,4,0,,,,,,,,,,,,,False,0.8
+1543829,2026-06-06,International Friendlies 2026,FRIENDLY,friendly,2026,away,Turkey,Venezuela,2,1,,,,,,,,,,,,,False,0.8
+1544356,2026-05-29,International Friendlies 2026,FRIENDLY,friendly,2026,home,Iraq,Andorra,1,0,,,,,,,,,,,,,False,0.8
+1544359,2026-06-04,International Friendlies 2026,FRIENDLY,friendly,2026,home,Spain,Iraq,1,1,,,,,,,,,,,,,False,0.8
+1544359,2026-06-04,International Friendlies 2026,FRIENDLY,friendly,2026,away,Iraq,Spain,1,1,,,,,,,,,,,,,False,0.8
+1544360,2026-06-06,International Friendlies 2026,FRIENDLY,friendly,2026,home,Panama,Bosnia and Herzegovina,1,1,,,,,,,,,,,,,False,0.8
+1544360,2026-06-06,International Friendlies 2026,FRIENDLY,friendly,2026,away,Bosnia and Herzegovina,Panama,1,1,,,,,,,,,,,,,False,0.8
+1544361,2026-06-06,International Friendlies 2026,FRIENDLY,friendly,2026,home,Qatar,El Salvador,0,0,,,,,,,,,,,,,False,0.8
+1544803,2026-05-29,International Friendlies 2026,FRIENDLY,friendly,2026,home,Iran,Gambia,3,1,,,,,,,,,,,,,False,0.8
+1544806,2026-06-03,International Friendlies 2026,FRIENDLY,friendly,2026,home,Haiti,New Zealand,4,0,,,,,,,,,,,,,False,0.8
+1544806,2026-06-03,International Friendlies 2026,FRIENDLY,friendly,2026,away,New Zealand,Haiti,0,4,,,,,,,,,,,,,False,0.8
+1544807,2026-06-04,International Friendlies 2026,FRIENDLY,friendly,2026,home,South Korea,El Salvador,1,0,,,,,,,,,,,,,False,0.8
+1544811,2026-06-06,International Friendlies 2026,FRIENDLY,friendly,2026,home,Haiti,Peru,1,2,,,,,,,,,,,,,False,0.8
+1544812,2026-06-08,International Friendlies 2026,FRIENDLY,friendly,2026,home,Netherlands,Uzbekistan,2,1,,,,,,,,,,,,,False,0.8
+1544812,2026-06-08,International Friendlies 2026,FRIENDLY,friendly,2026,away,Uzbekistan,Netherlands,1,2,,,,,,,,,,,,,False,0.8
+1545035,2026-05-31,International Friendlies 2026,FRIENDLY,friendly,2026,home,Czech Republic,Kosovo,2,1,,,,,,,,,,,,,False,0.8
+1545261,2026-05-26,International Friendlies 2026,FRIENDLY,friendly,2026,home,Morocco,Burundi,5,0,,,,,,,,,,,,,False,0.8
+1545263,2026-05-31,International Friendlies 2026,FRIENDLY,friendly,2026,home,South Korea,Trinidad and Tobago,5,0,,,,,,,,,,,,,False,0.8
+1545264,2026-06-02,International Friendlies 2026,FRIENDLY,friendly,2026,home,Morocco,Madagascar,4,0,,,,,,,,,,,,,False,0.8
+1546497,2026-06-05,International Friendlies 2026,FRIENDLY,friendly,2026,away,Saudi Arabia,Puerto Rico,3,0,,,,,,,,,,,,,False,0.8
+1546499,2026-06-06,International Friendlies 2026,FRIENDLY,friendly,2026,home,Cape Verde,Bermuda,3,0,,,,,,,,,,,,,False,0.8
+1548428,2026-06-04,International Friendlies 2026,FRIENDLY,friendly,2026,home,Iran,Mali,2,0,,,,,,,,,,,,,False,0.8
+1550809,2026-06-06,International Friendlies 2026,FRIENDLY,friendly,2026,away,South Africa,Jamaica,1,1,,,,,,,,,,,,,False,0.8
+match_id,date,competition,confederation,match_type,season,home_away,team,opponent,gols_marcados,gols_sofridos,shots,shots_on_goal,blocked_shots,ball_possession,fouls,yellow_cards,red_cards,corners,offsides,passes_accurate,saves,ast,has_shot_data,weight
+1501817,2026-04-01,International Friendlies 2026,FRIENDLY,friendly,2026,home,Brazil,Croatia,3,1,,,,,,,,,,,,,False,0.8
+1501817,2026-04-01,International Friendlies 2026,FRIENDLY,friendly,2026,away,Croatia,Brazil,1,3,,,,,,,,,,,,,False,0.8
+1501818,2026-05-31,International Friendlies 2026,FRIENDLY,friendly,2026,home,Germany,Finland,4,0,22.0,12.0,3.0,65.0,12.0,,,10.0,1.0,628.0,0.0,,True,0.8
+1502474,2026-06-06,International Friendlies 2026,FRIENDLY,friendly,2026,home,United States,Germany,1,2,16.0,4.0,5.0,52.0,11.0,1.0,,10.0,3.0,396.0,2.0,,True,0.8
+1502474,2026-06-06,International Friendlies 2026,FRIENDLY,friendly,2026,away,Germany,United States,2,1,12.0,4.0,2.0,48.0,10.0,3.0,,2.0,4.0,363.0,3.0,,True,0.8
+1503008,2026-05-31,International Friendlies 2026,FRIENDLY,friendly,2026,home,United States,Senegal,3,2,13.0,3.0,6.0,45.0,21.0,1.0,,3.0,0.0,274.0,2.0,,True,0.8
+1503008,2026-05-31,International Friendlies 2026,FRIENDLY,friendly,2026,away,Senegal,United States,2,3,7.0,3.0,1.0,55.0,9.0,0.0,,7.0,2.0,354.0,2.0,,True,0.8
+1511733,2026-06-01,International Friendlies 2026,FRIENDLY,friendly,2026,home,Austria,Tunisia,1,0,9.0,4.0,0.0,59.0,12.0,2.0,1.0,2.0,1.0,415.0,2.0,,True,0.8
+1511733,2026-06-01,International Friendlies 2026,FRIENDLY,friendly,2026,away,Tunisia,Austria,0,1,14.0,2.0,3.0,41.0,12.0,1.0,0.0,4.0,2.0,280.0,3.0,,True,0.8
+1511779,2026-05-30,International Friendlies 2026,FRIENDLY,friendly,2026,home,Scotland,Curacao,4,1,18.0,11.0,2.0,67.0,17.0,2.0,0.0,8.0,,535.0,2.0,,True,0.8
+1511779,2026-05-30,International Friendlies 2026,FRIENDLY,friendly,2026,away,Curacao,Scotland,1,4,9.0,3.0,2.0,33.0,11.0,2.0,1.0,2.0,,234.0,7.0,,True,0.8
+1512766,2026-06-02,International Friendlies 2026,FRIENDLY,friendly,2026,home,Croatia,Belgium,0,2,5.0,1.0,1.0,57.0,13.0,2.0,,3.0,4.0,469.0,3.0,,True,0.8
+1512766,2026-06-02,International Friendlies 2026,FRIENDLY,friendly,2026,away,Belgium,Croatia,2,0,8.0,4.0,1.0,43.0,13.0,2.0,,4.0,2.0,347.0,1.0,,True,0.8
+1512767,2026-06-06,International Friendlies 2026,FRIENDLY,friendly,2026,home,Belgium,Tunisia,5,0,27.0,12.0,9.0,66.0,9.0,0.0,0.0,13.0,2.0,496.0,1.0,,True,0.8
+1512767,2026-06-06,International Friendlies 2026,FRIENDLY,friendly,2026,away,Tunisia,Belgium,0,5,7.0,1.0,2.0,34.0,9.0,2.0,1.0,0.0,3.0,234.0,5.0,,True,0.8
+1512768,2026-06-07,International Friendlies 2026,FRIENDLY,friendly,2026,home,Croatia,Slovenia,2,1,22.0,6.0,6.0,67.0,5.0,,,8.0,,551.0,3.0,,True,0.8
+1514471,2026-04-01,International Friendlies 2026,FRIENDLY,friendly,2026,home,Mexico,Belgium,1,1,10.0,3.0,4.0,49.0,14.0,2.0,,3.0,3.0,424.0,1.0,,True,0.8
+1514471,2026-04-01,International Friendlies 2026,FRIENDLY,friendly,2026,away,Belgium,Mexico,1,1,5.0,2.0,0.0,51.0,20.0,3.0,,2.0,1.0,454.0,2.0,,True,0.8
+1514472,2026-06-02,International Friendlies 2026,FRIENDLY,friendly,2026,home,Canada,Uzbekistan,2,0,10.0,4.0,3.0,52.0,9.0,2.0,,7.0,3.0,384.0,2.0,,True,0.8
+1514472,2026-06-02,International Friendlies 2026,FRIENDLY,friendly,2026,away,Uzbekistan,Canada,0,2,6.0,2.0,1.0,48.0,15.0,2.0,,3.0,3.0,347.0,2.0,,True,0.8
+1525492,2026-06-06,International Friendlies 2026,FRIENDLY,friendly,2026,home,England,New Zealand,1,0,23.0,4.0,11.0,72.0,10.0,,,8.0,2.0,610.0,1.0,,True,0.8
+1525492,2026-06-06,International Friendlies 2026,FRIENDLY,friendly,2026,away,New Zealand,England,0,1,3.0,1.0,1.0,28.0,13.0,,,1.0,1.0,208.0,3.0,,True,0.8
+1527865,2026-05-31,International Friendlies 2026,FRIENDLY,friendly,2026,home,Mexico,Australia,1,0,13.0,3.0,8.0,59.0,7.0,1.0,,5.0,4.0,536.0,1.0,,True,0.8
+1527865,2026-05-31,International Friendlies 2026,FRIENDLY,friendly,2026,away,Australia,Mexico,0,1,7.0,1.0,3.0,41.0,10.0,1.0,,3.0,1.0,336.0,2.0,,True,0.8
+1528281,2026-05-23,International Friendlies 2026,FRIENDLY,friendly,2026,home,Mexico,Ghana,2,0,16.0,8.0,2.0,59.0,16.0,1.0,,9.0,2.0,496.0,3.0,,True,0.8
+1528281,2026-05-23,International Friendlies 2026,FRIENDLY,friendly,2026,away,Ghana,Mexico,0,2,7.0,3.0,1.0,41.0,9.0,1.0,,3.0,1.0,332.0,6.0,,True,0.8
+1528282,2026-05-28,International Friendlies 2026,FRIENDLY,friendly,2026,away,Qatar,Rep. Of Ireland,0,1,8.0,1.0,1.0,48.0,16.0,,1.0,3.0,3.0,356.0,2.0,,True,0.8
+1528283,2026-05-31,International Friendlies 2026,FRIENDLY,friendly,2026,home,Switzerland,Jordan,4,1,19.0,10.0,1.0,70.0,10.0,,,6.0,3.0,605.0,3.0,,True,0.8
+1528283,2026-05-31,International Friendlies 2026,FRIENDLY,friendly,2026,away,Jordan,Switzerland,1,4,12.0,4.0,3.0,30.0,9.0,,,4.0,1.0,219.0,6.0,,True,0.8
+1528284,2026-06-05,International Friendlies 2026,FRIENDLY,friendly,2026,home,Mexico,Serbia,5,1,17.0,7.0,2.0,67.0,12.0,2.0,,6.0,1.0,522.0,0.0,,True,0.8
+1528285,2026-06-05,International Friendlies 2026,FRIENDLY,friendly,2026,home,Canada,Rep. Of Ireland,1,1,3.0,1.0,0.0,57.0,0.0,,,1.0,1.0,45.0,0.0,,True,0.8
+1528286,2026-06-06,International Friendlies 2026,FRIENDLY,friendly,2026,home,Portugal,Chile,2,1,18.0,8.0,5.0,62.0,8.0,,1.0,9.0,3.0,463.0,3.0,,True,0.8
+1528287,2026-06-06,International Friendlies 2026,FRIENDLY,friendly,2026,home,Brazil,Egypt,2,1,12.0,7.0,3.0,53.0,9.0,1.0,,5.0,0.0,397.0,1.0,,True,0.8
+1528287,2026-06-06,International Friendlies 2026,FRIENDLY,friendly,2026,away,Egypt,Brazil,1,2,4.0,2.0,2.0,47.0,9.0,1.0,,3.0,1.0,351.0,4.0,,True,0.8
+1528288,2026-06-07,International Friendlies 2026,FRIENDLY,friendly,2026,home,Colombia,Jordan,2,0,4.0,3.0,0.0,67.0,4.0,,,1.0,3.0,281.0,0.0,,True,0.8
+1528288,2026-06-07,International Friendlies 2026,FRIENDLY,friendly,2026,away,Jordan,Colombia,0,2,4.0,0.0,1.0,33.0,6.0,,,1.0,0.0,120.0,1.0,,True,0.8
+1536926,2026-05-31,International Friendlies 2026,FRIENDLY,friendly,2026,home,Brazil,Panama,6,2,19.0,12.0,2.0,54.0,13.0,0.0,,1.0,1.0,463.0,8.0,,True,0.8
+1536926,2026-05-31,International Friendlies 2026,FRIENDLY,friendly,2026,away,Panama,Brazil,2,6,16.0,9.0,3.0,46.0,5.0,1.0,,1.0,1.0,379.0,6.0,,True,0.8
+1536927,2026-06-01,International Friendlies 2026,FRIENDLY,friendly,2026,home,Norway,Sweden,3,1,22.0,7.0,7.0,55.0,6.0,0.0,,6.0,2.0,499.0,3.0,,True,0.8
+1536927,2026-06-01,International Friendlies 2026,FRIENDLY,friendly,2026,away,Sweden,Norway,1,3,9.0,5.0,2.0,45.0,6.0,1.0,,1.0,2.0,425.0,4.0,,True,0.8
+1536929,2026-06-02,International Friendlies 2026,FRIENDLY,friendly,2026,away,Ghana,Wales,1,1,11.0,5.0,1.0,34.0,13.0,2.0,,4.0,4.0,259.0,2.0,,True,0.8
+1536930,2026-06-03,International Friendlies 2026,FRIENDLY,friendly,2026,home,Netherlands,Algeria,0,1,17.0,6.0,6.0,52.0,11.0,,,6.0,2.0,442.0,1.0,,True,0.8
+1536930,2026-06-03,International Friendlies 2026,FRIENDLY,friendly,2026,away,Algeria,Netherlands,1,0,8.0,2.0,4.0,48.0,9.0,,,3.0,2.0,388.0,6.0,,True,0.8
+1536931,2026-06-04,International Friendlies 2026,FRIENDLY,friendly,2026,home,France,Ivory Coast,1,2,15.0,6.0,3.0,60.0,8.0,0.0,,8.0,3.0,596.0,1.0,,True,0.8
+1536931,2026-06-04,International Friendlies 2026,FRIENDLY,friendly,2026,away,Ivory Coast,France,2,1,7.0,3.0,0.0,40.0,9.0,1.0,,2.0,3.0,380.0,5.0,,True,0.8
+1537648,2026-06-01,International Friendlies 2026,FRIENDLY,friendly,2026,home,Colombia,Costa Rica,3,1,8.0,4.0,1.0,67.0,5.0,1.0,,4.0,,209.0,2.0,,True,0.8
+1537650,2026-06-07,International Friendlies 2026,FRIENDLY,friendly,2026,home,Curacao,Aruba,4,0,,,,,,,,,,,,,False,0.8
+1540351,2026-05-31,International Friendlies 2026,FRIENDLY,friendly,2026,home,Japan,Iceland,1,0,15.0,7.0,5.0,55.0,11.0,0.0,,5.0,2.0,510.0,2.0,,True,0.8
+1540355,2026-06-07,International Friendlies 2026,FRIENDLY,friendly,2026,home,Argentina,Honduras,2,0,20.0,8.0,5.0,73.0,16.0,4.0,,6.0,1.0,747.0,0.0,,True,0.8
+1540947,2026-05-29,International Friendlies 2026,FRIENDLY,friendly,2026,home,Bosnia and Herzegovina,FYR Macedonia,0,0,13.0,3.0,5.0,69.0,12.0,0.0,0.0,2.0,4.0,,1.0,,True,0.8
+1540948,2026-05-31,International Friendlies 2026,FRIENDLY,friendly,2026,home,Ecuador,Saudi Arabia,2,1,11.0,6.0,1.0,42.0,16.0,1.0,,2.0,2.0,346.0,1.0,,True,0.8
+1540948,2026-05-31,International Friendlies 2026,FRIENDLY,friendly,2026,away,Saudi Arabia,Ecuador,1,2,12.0,2.0,2.0,58.0,11.0,1.0,,2.0,0.0,464.0,4.0,,True,0.8
+1540949,2026-06-06,International Friendlies 2026,FRIENDLY,friendly,2026,away,Scotland,Bolivia,4,0,20.0,8.0,5.0,46.0,16.0,1.0,,6.0,0.0,374.0,3.0,,True,0.8
+1540950,2026-06-07,International Friendlies 2026,FRIENDLY,friendly,2026,home,Morocco,Norway,1,1,13.0,5.0,2.0,46.0,6.0,1.0,,3.0,1.0,337.0,1.0,,True,0.8
+1540950,2026-06-07,International Friendlies 2026,FRIENDLY,friendly,2026,away,Norway,Morocco,1,1,9.0,2.0,4.0,54.0,12.0,1.0,,11.0,1.0,377.0,4.0,,True,0.8
+1542181,2026-06-06,International Friendlies 2026,FRIENDLY,friendly,2026,home,Switzerland,Australia,1,1,9.0,3.0,1.0,63.0,10.0,3.0,,7.0,4.0,634.0,1.0,,True,0.8
+1542181,2026-06-06,International Friendlies 2026,FRIENDLY,friendly,2026,away,Australia,Switzerland,1,1,5.0,2.0,1.0,37.0,14.0,2.0,,2.0,1.0,347.0,2.0,,True,0.8
+1542182,2026-06-07,International Friendlies 2026,FRIENDLY,friendly,2026,home,Ecuador,Guatemala,3,0,18.0,6.0,5.0,66.0,11.0,3.0,,6.0,2.0,674.0,0.0,,True,0.8
+1542183,2026-06-08,International Friendlies 2026,FRIENDLY,friendly,2026,home,France,Northern Ireland,3,1,27.0,5.0,9.0,73.0,6.0,,,5.0,5.0,769.0,1.0,,True,0.8
+1542552,2026-06-04,International Friendlies 2026,FRIENDLY,friendly,2026,home,Sweden,Greece,2,2,13.0,5.0,1.0,53.0,6.0,0.0,,1.0,0.0,485.0,2.0,,True,0.8
+1542891,2026-06-04,International Friendlies 2026,FRIENDLY,friendly,2026,home,Panama,Dominican Republic,4,2,,,,,,,,,,,,,False,0.8
+1542893,2026-06-05,International Friendlies 2026,FRIENDLY,friendly,2026,home,Czech Republic,Guatemala,3,1,,,,,,,,,,,,,False,0.8
+1543816,2026-05-28,International Friendlies 2026,FRIENDLY,friendly,2026,home,Egypt,Russia,1,0,11.0,4.0,1.0,53.0,13.0,1.0,,5.0,2.0,386.0,1.0,,True,0.8
+1543817,2026-05-29,International Friendlies 2026,FRIENDLY,friendly,2026,home,South Africa,Nicaragua,0,0,21.0,6.0,5.0,85.0,8.0,0.0,,6.0,,602.0,0.0,,True,0.8
+1543819,2026-05-31,International Friendlies 2026,FRIENDLY,friendly,2026,home,Cape Verde,Serbia,3,0,,,,,,,,,,,,,False,0.8
+1543821,2026-06-01,International Friendlies 2026,FRIENDLY,friendly,2026,home,Turkey,FYR Macedonia,4,0,20.0,8.0,5.0,60.0,14.0,0.0,,13.0,1.0,471.0,2.0,,True,0.8
+1543822,2026-06-03,International Friendlies 2026,FRIENDLY,friendly,2026,home,DR Congo,Denmark,0,0,,,,,,,,,,,,,False,0.8
+1543828,2026-06-05,International Friendlies 2026,FRIENDLY,friendly,2026,home,Paraguay,Nicaragua,4,0,,,,,,,,,,,,,False,0.8
+1543829,2026-06-06,International Friendlies 2026,FRIENDLY,friendly,2026,away,Turkey,Venezuela,2,1,16.0,8.0,3.0,52.0,12.0,1.0,,12.0,2.0,361.0,1.0,,True,0.8
+1544356,2026-05-29,International Friendlies 2026,FRIENDLY,friendly,2026,home,Iraq,Andorra,1,0,,,,,,,,,,,,,False,0.8
+1544359,2026-06-04,International Friendlies 2026,FRIENDLY,friendly,2026,home,Spain,Iraq,1,1,13.0,4.0,3.0,66.0,8.0,2.0,,5.0,4.0,614.0,1.0,,True,0.8
+1544359,2026-06-04,International Friendlies 2026,FRIENDLY,friendly,2026,away,Iraq,Spain,1,1,3.0,2.0,1.0,34.0,10.0,2.0,,3.0,1.0,285.0,3.0,,True,0.8
+1544360,2026-06-06,International Friendlies 2026,FRIENDLY,friendly,2026,home,Panama,Bosnia and Herzegovina,1,1,,,,,,,,,,,,,False,0.8
+1544360,2026-06-06,International Friendlies 2026,FRIENDLY,friendly,2026,away,Bosnia and Herzegovina,Panama,1,1,,,,,,,,,,,,,False,0.8
+1544361,2026-06-06,International Friendlies 2026,FRIENDLY,friendly,2026,home,Qatar,El Salvador,0,0,8.0,1.0,1.0,59.0,10.0,1.0,,3.0,2.0,450.0,3.0,,True,0.8
+1544803,2026-05-29,International Friendlies 2026,FRIENDLY,friendly,2026,home,Iran,Gambia,3,1,,,,,,,,,,,,,False,0.8
+1544806,2026-06-03,International Friendlies 2026,FRIENDLY,friendly,2026,home,Haiti,New Zealand,4,0,13.0,7.0,5.0,51.0,9.0,0.0,0.0,5.0,0.0,,3.0,,True,0.8
+1544806,2026-06-03,International Friendlies 2026,FRIENDLY,friendly,2026,away,New Zealand,Haiti,0,4,12.0,3.0,3.0,49.0,10.0,1.0,0.0,8.0,1.0,,3.0,,True,0.8
+1544807,2026-06-04,International Friendlies 2026,FRIENDLY,friendly,2026,home,South Korea,El Salvador,1,0,13.0,6.0,3.0,71.0,17.0,4.0,,6.0,0.0,477.0,0.0,,True,0.8
+1544811,2026-06-06,International Friendlies 2026,FRIENDLY,friendly,2026,home,Haiti,Peru,1,2,8.0,1.0,1.0,42.0,14.0,1.0,,3.0,1.0,297.0,3.0,,True,0.8
+1544812,2026-06-08,International Friendlies 2026,FRIENDLY,friendly,2026,home,Netherlands,Uzbekistan,2,1,15.0,4.0,3.0,65.0,13.0,1.0,1.0,3.0,2.0,493.0,0.0,,True,0.8
+1544812,2026-06-08,International Friendlies 2026,FRIENDLY,friendly,2026,away,Uzbekistan,Netherlands,1,2,8.0,1.0,4.0,35.0,14.0,1.0,0.0,3.0,2.0,224.0,1.0,,True,0.8
+1545035,2026-05-31,International Friendlies 2026,FRIENDLY,friendly,2026,home,Czech Republic,Kosovo,2,1,,,,,,,,,,,,,False,0.8
+1545261,2026-05-26,International Friendlies 2026,FRIENDLY,friendly,2026,home,Morocco,Burundi,5,0,,,,,,,,,,,,,False,0.8
+1545263,2026-05-31,International Friendlies 2026,FRIENDLY,friendly,2026,home,South Korea,Trinidad and Tobago,5,0,19.0,11.0,6.0,72.0,12.0,1.0,,7.0,1.0,536.0,1.0,,True,0.8
+1545264,2026-06-02,International Friendlies 2026,FRIENDLY,friendly,2026,home,Morocco,Madagascar,4,0,20.0,9.0,6.0,70.0,12.0,2.0,0.0,12.0,4.0,680.0,1.0,,True,0.8
+1546497,2026-06-05,International Friendlies 2026,FRIENDLY,friendly,2026,away,Saudi Arabia,Puerto Rico,3,0,,,,,,,,,,,,,False,0.8
+1546499,2026-06-06,International Friendlies 2026,FRIENDLY,friendly,2026,home,Cape Verde,Bermuda,3,0,,,,,,,,,,,,,False,0.8
+1548428,2026-06-04,International Friendlies 2026,FRIENDLY,friendly,2026,home,Iran,Mali,2,0,,,,,,,,,,,,,False,0.8
+1550809,2026-06-06,International Friendlies 2026,FRIENDLY,friendly,2026,away,South Africa,Jamaica,1,1,,,,,,,,,,,,,False,0.8

@@ -1,0 +1,9 @@
+soccerdata
+statsbombpy
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+scipy
+jupyter

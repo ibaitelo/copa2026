@@ -1,0 +1,76 @@
+match_id,date,competition,confederation,match_type,season,home_away,team,opponent,gols_marcados,gols_sofridos,shots,shots_on_goal,blocked_shots,ball_possession,fouls,yellow_cards,red_cards,corners,offsides,passes_accurate,saves,has_shot_data
+1189120,2024-06-21,Copa America 2024,CONCACAF,tournament,2024,away,Canada,Argentina,0,2,10.0,2.0,4.0,36.0,9.0,2.0,,4.0,1.0,265.0,6.0,True
+1146303,2024-06-23,Copa America 2024,CONCACAF,tournament,2024,home,Mexico,Jamaica,1,0,20.0,9.0,5.0,61.0,8.0,,,7.0,1.0,426.0,4.0,True
+1146304,2024-06-23,Copa America 2024,CONCACAF,tournament,2024,home,United States,Bolivia,2,0,20.0,8.0,6.0,61.0,8.0,1.0,,7.0,1.0,430.0,3.0,True
+1189122,2024-06-26,Copa America 2024,CONCACAF,tournament,2024,away,Canada,Peru,1,0,5.0,2.0,0.0,51.0,14.0,1.0,0.0,1.0,1.0,282.0,4.0,True
+1146309,2024-06-27,Copa America 2024,CONCACAF,tournament,2024,away,Mexico,Venezuela,0,1,18.0,5.0,8.0,61.0,12.0,2.0,,7.0,2.0,397.0,1.0,True
+1146310,2024-06-28,Copa America 2024,CONCACAF,tournament,2024,away,United States,Panama,1,2,6.0,3.0,0.0,26.0,4.0,2.0,1.0,0.0,3.0,114.0,2.0,True
+1189124,2024-06-30,Copa America 2024,CONCACAF,tournament,2024,home,Canada,Chile,0,0,9.0,3.0,3.0,57.0,15.0,5.0,0.0,8.0,2.0,342.0,4.0,True
+1146315,2024-07-01,Copa America 2024,CONCACAF,tournament,2024,home,Mexico,Ecuador,0,0,20.0,4.0,9.0,60.0,16.0,5.0,,5.0,2.0,318.0,3.0,True
+1146317,2024-07-02,Copa America 2024,CONCACAF,tournament,2024,home,United States,Uruguay,0,1,8.0,3.0,3.0,50.0,12.0,2.0,,2.0,1.0,230.0,4.0,True
+1227537,2024-07-10,Copa America 2024,CONCACAF,tournament,2024,away,Canada,Argentina,0,2,9.0,2.0,2.0,49.0,15.0,3.0,,2.0,0.0,395.0,1.0,True
+1312104,2024-11-15,CONCACAF Nations League,CONCACAF,tournament,2024,away,United States,Jamaica,1,0,6.0,3.0,1.0,59.0,12.0,2.0,0.0,1.0,0.0,417.0,2.0,True
+1312098,2024-11-15,CONCACAF Nations League,CONCACAF,tournament,2024,away,Canada,Suriname,1,0,13.0,5.0,6.0,66.0,14.0,4.0,,7.0,2.0,421.0,0.0,True
+1312100,2024-11-16,CONCACAF Nations League,CONCACAF,tournament,2024,away,Mexico,Honduras,0,2,10.0,4.0,3.0,62.0,17.0,3.0,,4.0,0.0,428.0,3.0,True
+1312105,2024-11-19,CONCACAF Nations League,CONCACAF,tournament,2024,home,United States,Jamaica,4,2,16.0,7.0,2.0,68.0,13.0,,,2.0,2.0,640.0,4.0,True
+1312099,2024-11-20,CONCACAF Nations League,CONCACAF,tournament,2024,home,Canada,Suriname,3,0,12.0,4.0,2.0,55.0,21.0,0.0,,5.0,2.0,348.0,1.0,True
+1312101,2024-11-20,CONCACAF Nations League,CONCACAF,tournament,2024,home,Mexico,Honduras,4,0,27.0,9.0,5.0,77.0,18.0,4.0,,10.0,0.0,496.0,2.0,True
+1316375,2025-03-20,CONCACAF Nations League,CONCACAF,tournament,2024,home,United States,Panama,0,1,12.0,5.0,3.0,67.0,11.0,2.0,,9.0,1.0,577.0,0.0,True
+1316376,2025-03-21,CONCACAF Nations League,CONCACAF,tournament,2024,home,Canada,Mexico,0,2,11.0,1.0,3.0,57.0,22.0,3.0,,7.0,1.0,289.0,1.0,True
+1316376,2025-03-21,CONCACAF Nations League,CONCACAF,tournament,2024,away,Mexico,Canada,2,0,8.0,3.0,1.0,43.0,21.0,3.0,,2.0,2.0,200.0,1.0,True
+1364768,2025-03-22,CONCACAF Nations League,CONCACAF,tournament,2024,home,Canada,United States,2,1,8.0,4.0,2.0,40.0,13.0,2.0,,3.0,2.0,224.0,1.0,True
+1364768,2025-03-22,CONCACAF Nations League,CONCACAF,tournament,2024,away,United States,Canada,1,2,5.0,2.0,1.0,60.0,17.0,2.0,,3.0,4.0,364.0,1.0,True
+1364767,2025-03-24,CONCACAF Nations League,CONCACAF,tournament,2024,home,Mexico,Panama,2,1,15.0,5.0,4.0,47.0,10.0,0.0,,3.0,3.0,328.0,3.0,True
+1139205,2023-11-17,CONCACAF Nations League,CONCACAF,tournament,2023,home,United States,Trinidad and Tobago,3,0,26.0,8.0,6.0,75.0,14.0,0.0,0.0,10.0,2.0,588.0,0.0,True
+1139140,2023-11-18,CONCACAF Nations League,CONCACAF,tournament,2023,away,Mexico,Honduras,0,2,8.0,2.0,3.0,65.0,17.0,3.0,,4.0,0.0,359.0,3.0,True
+1139203,2023-11-18,CONCACAF Nations League,CONCACAF,tournament,2023,away,Canada,Jamaica,2,1,18.0,7.0,6.0,51.0,9.0,0.0,,3.0,2.0,304.0,1.0,True
+1139206,2023-11-21,CONCACAF Nations League,CONCACAF,tournament,2023,away,United States,Trinidad and Tobago,1,2,10.0,5.0,3.0,50.0,14.0,3.0,1.0,6.0,1.0,327.0,3.0,True
+1139204,2023-11-22,CONCACAF Nations League,CONCACAF,tournament,2023,home,Canada,Jamaica,2,3,17.0,7.0,6.0,59.0,4.0,0.0,0.0,4.0,7.0,423.0,2.0,True
+1143861,2024-03-22,CONCACAF Nations League,CONCACAF,tournament,2023,away,Mexico,Panama,3,0,6.0,6.0,0.0,41.0,11.0,1.0,,4.0,2.0,220.0,5.0,True
+1144239,2024-03-23,CONCACAF Nations League,CONCACAF,tournament,2023,home,Canada,Trinidad and Tobago,2,0,16.0,6.0,7.0,61.0,10.0,2.0,,14.0,3.0,460.0,2.0,True
+1187487,2024-03-25,CONCACAF Nations League,CONCACAF,tournament,2023,home,Mexico,United States,0,2,11.0,6.0,2.0,53.0,13.0,1.0,,7.0,4.0,282.0,2.0,True
+1187487,2024-03-25,CONCACAF Nations League,CONCACAF,tournament,2023,away,United States,Mexico,2,0,9.0,2.0,3.0,47.0,14.0,4.0,,4.0,4.0,233.0,4.0,True
+856809,2022-06-10,CONCACAF Nations League,CONCACAF,tournament,2022,home,Canada,Curaçao,4,0,,,,,,,,,,,,False
+856810,2022-06-11,CONCACAF Nations League,CONCACAF,tournament,2022,home,United States,Grenada,5,0,,,,,,,,,,,,False
+856811,2022-06-12,CONCACAF Nations League,CONCACAF,tournament,2022,home,Mexico,Suriname,3,0,,,,,,,,,,,,False
+856814,2022-06-14,CONCACAF Nations League,CONCACAF,tournament,2022,away,Canada,Honduras,1,2,,,,,,,,,,,,False
+856813,2022-06-15,CONCACAF Nations League,CONCACAF,tournament,2022,away,Mexico,Jamaica,1,1,,,,,,,,,,,,False
+856815,2022-06-15,CONCACAF Nations League,CONCACAF,tournament,2022,away,United States,El Salvador,1,1,,,,,,,,,,,,False
+856816,2023-03-24,CONCACAF Nations League,CONCACAF,tournament,2022,away,Mexico,Suriname,2,0,10.0,4.0,1.0,60.0,21.0,2.0,,4.0,3.0,,2.0,True
+856817,2023-03-25,CONCACAF Nations League,CONCACAF,tournament,2022,away,United States,Grenada,7,1,,,,,,1.0,,8.0,,,,True
+856819,2023-03-26,CONCACAF Nations League,CONCACAF,tournament,2022,away,Canada,Curaçao,2,0,,,,,,,,,,,,False
+856820,2023-03-27,CONCACAF Nations League,CONCACAF,tournament,2022,home,Mexico,Jamaica,2,2,,,,,,,,9.0,,,,True
+856821,2023-03-27,CONCACAF Nations League,CONCACAF,tournament,2022,home,United States,El Salvador,1,0,,,,,,,,13.0,,,,True
+856823,2023-03-29,CONCACAF Nations League,CONCACAF,tournament,2022,home,Canada,Honduras,4,1,,,,,,1.0,,4.0,,,,True
+1019252,2023-06-15,CONCACAF Nations League,CONCACAF,tournament,2022,away,Canada,Panama,2,0,7.0,3.0,0.0,48.0,13.0,0.0,0.0,3.0,3.0,381.0,4.0,True
+1019251,2023-06-16,CONCACAF Nations League,CONCACAF,tournament,2022,home,United States,Mexico,3,0,11.0,5.0,3.0,47.0,17.0,4.0,2.0,5.0,0.0,294.0,1.0,True
+1019251,2023-06-16,CONCACAF Nations League,CONCACAF,tournament,2022,away,Mexico,United States,0,3,4.0,1.0,1.0,53.0,17.0,5.0,2.0,3.0,4.0,318.0,2.0,True
+1035659,2023-06-18,CONCACAF Nations League,CONCACAF,tournament,2022,away,Mexico,Panama,1,0,8.0,3.0,2.0,43.0,17.0,6.0,,4.0,2.0,258.0,3.0,True
+1035658,2023-06-19,CONCACAF Nations League,CONCACAF,tournament,2022,home,Canada,United States,0,2,12.0,4.0,2.0,64.0,15.0,2.0,,5.0,1.0,416.0,5.0,True
+1035658,2023-06-19,CONCACAF Nations League,CONCACAF,tournament,2022,away,United States,Canada,2,0,15.0,7.0,5.0,36.0,16.0,2.0,,8.0,0.0,179.0,4.0,True
+1371356,2025-06-15,CONCACAF Gold Cup,CONCACAF,tournament,2025,home,Mexico,Dominican Republic,3,2,15.0,9.0,2.0,62.0,9.0,2.0,,5.0,1.0,497.0,3.0,True
+1371357,2025-06-15,CONCACAF Gold Cup,CONCACAF,tournament,2025,home,United States,Trinidad and Tobago,5,0,21.0,11.0,4.0,70.0,10.0,0.0,,9.0,3.0,537.0,2.0,True
+1371363,2025-06-18,CONCACAF Gold Cup,CONCACAF,tournament,2025,home,Canada,Honduras,6,0,19.0,8.0,3.0,54.0,12.0,,,3.0,5.0,331.0,2.0,True
+1371365,2025-06-19,CONCACAF Gold Cup,CONCACAF,tournament,2025,away,Mexico,Suriname,2,0,16.0,6.0,5.0,61.0,18.0,1.0,,5.0,1.0,495.0,2.0,True
+1371367,2025-06-20,CONCACAF Gold Cup,CONCACAF,tournament,2025,away,United States,Saudi Arabia,1,0,5.0,3.0,2.0,67.0,10.0,2.0,,4.0,3.0,470.0,1.0,True
+1371370,2025-06-21,CONCACAF Gold Cup,CONCACAF,tournament,2025,away,Canada,Curaçao,1,1,6.0,3.0,2.0,52.0,15.0,1.0,,3.0,1.0,239.0,1.0,True
+1371373,2025-06-22,CONCACAF Gold Cup,CONCACAF,tournament,2025,home,United States,Haiti,2,1,18.0,6.0,5.0,66.0,8.0,1.0,,6.0,3.0,543.0,2.0,True
+1371374,2025-06-23,CONCACAF Gold Cup,CONCACAF,tournament,2025,home,Mexico,Costa Rica,0,0,13.0,4.0,4.0,70.0,14.0,2.0,,3.0,1.0,501.0,0.0,True
+1371378,2025-06-25,CONCACAF Gold Cup,CONCACAF,tournament,2025,home,Canada,El Salvador,2,0,14.0,4.0,5.0,80.0,11.0,2.0,0.0,12.0,1.0,427.0,0.0,True
+1383570,2025-06-29,CONCACAF Gold Cup,CONCACAF,tournament,2025,home,Mexico,Saudi Arabia,2,0,14.0,5.0,4.0,60.0,18.0,1.0,,7.0,1.0,476.0,0.0,True
+1390638,2025-07-02,CONCACAF Gold Cup,CONCACAF,tournament,2025,home,United States,Guatemala,2,1,12.0,7.0,3.0,49.0,15.0,4.0,,2.0,3.0,314.0,4.0,True
+1390639,2025-07-03,CONCACAF Gold Cup,CONCACAF,tournament,2025,home,Mexico,Honduras,1,0,10.0,4.0,2.0,56.0,11.0,5.0,,2.0,1.0,373.0,1.0,True
+1391246,2025-07-06,CONCACAF Gold Cup,CONCACAF,tournament,2025,home,United States,Mexico,1,2,6.0,3.0,1.0,40.0,12.0,1.0,,0.0,,280.0,6.0,True
+1391246,2025-07-06,CONCACAF Gold Cup,CONCACAF,tournament,2025,away,Mexico,United States,2,1,16.0,8.0,2.0,60.0,11.0,2.0,,12.0,,441.0,2.0,True
+1023102,2023-06-25,CONCACAF Gold Cup,CONCACAF,tournament,2023,home,United States,Jamaica,1,1,13.0,4.0,2.0,68.0,11.0,0.0,,5.0,0.0,468.0,2.0,True
+1023104,2023-06-26,CONCACAF Gold Cup,CONCACAF,tournament,2023,home,Mexico,Honduras,4,0,17.0,6.0,6.0,54.0,13.0,2.0,,4.0,1.0,436.0,1.0,True
+1036607,2023-06-27,CONCACAF Gold Cup,CONCACAF,tournament,2023,home,Canada,Guadeloupe,2,2,17.0,5.0,4.0,56.0,13.0,2.0,,5.0,2.0,363.0,3.0,True
+1036608,2023-06-29,CONCACAF Gold Cup,CONCACAF,tournament,2023,away,United States,St. Kitts and Nevis,6,0,2.0,0.0,1.0,34.0,9.0,3.0,,1.0,1.0,202.0,9.0,True
+1023109,2023-06-30,CONCACAF Gold Cup,CONCACAF,tournament,2023,away,Mexico,Haiti,3,1,32.0,10.0,11.0,65.0,8.0,1.0,,9.0,2.0,437.0,1.0,True
+1023111,2023-07-02,CONCACAF Gold Cup,CONCACAF,tournament,2023,away,Canada,Guatemala,0,0,9.0,3.0,3.0,56.0,12.0,5.0,,3.0,0.0,356.0,2.0,True
+1023112,2023-07-02,CONCACAF Gold Cup,CONCACAF,tournament,2023,home,United States,Trinidad and Tobago,6,0,23.0,8.0,4.0,67.0,11.0,1.0,,5.0,1.0,545.0,3.0,True
+1023114,2023-07-03,CONCACAF Gold Cup,CONCACAF,tournament,2023,home,Mexico,Qatar,0,1,25.0,6.0,8.0,76.0,11.0,2.0,,7.0,1.0,580.0,0.0,True
+1023115,2023-07-04,CONCACAF Gold Cup,CONCACAF,tournament,2023,home,Canada,Cuba,4,2,14.0,9.0,1.0,62.0,10.0,1.0,,5.0,4.0,479.0,0.0,True
+1051774,2023-07-09,CONCACAF Gold Cup,CONCACAF,tournament,2023,home,Mexico,Costa Rica,2,0,14.0,8.0,2.0,51.0,16.0,1.0,,4.0,2.0,377.0,1.0,True
+1060870,2023-07-13,CONCACAF Gold Cup,CONCACAF,tournament,2023,away,Mexico,Jamaica,3,0,13.0,5.0,5.0,55.0,11.0,2.0,,8.0,3.0,293.0,3.0,True
+1065809,2023-07-16,CONCACAF Gold Cup,CONCACAF,tournament,2023,home,Mexico,Panama,1,0,23.0,7.0,10.0,52.0,24.0,4.0,,2.0,1.0,306.0,2.0,True

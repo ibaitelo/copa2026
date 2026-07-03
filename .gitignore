@@ -1,0 +1,58 @@
+# Secrets
+.env
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pkl
+*.pyz
+
+# Large raw data files (não versionadas)
+data/raw/all_confederations_raw.csv
+data/raw/all_confederations_clean.csv
+data/raw/UEFA_raw.csv
+data/raw/CAF_raw.csv
+data/raw/AFC_raw.csv
+data/raw/CONCACAF_raw.csv
+data/raw/CONMEBOL_raw.csv
+data/raw/OFC_raw.csv
+data/raw/elo_history.csv
+data/raw/elo_world.tsv
+data/raw/elo_world_current.tsv
+data/raw/api_football_wcq_raw.csv
+data/raw/friendlies_raw.csv
+data/raw/conmebol_match_stats_raw.csv
+data/raw/player_ratings_per_game.csv
+data/raw/starter_ratings_per_game.csv
+data/raw/conmebol_quali_raw.csv
+
+# Backups intermediários
+data/raw/full_dataset_raw_pre_v11.csv
+data/raw/full_dataset_raw_pre_v12.csv
+data/processed/model_dataset_pre_v11.csv
+data/processed/model_dataset_tmp.csv
+data/processed/all_confederations_clean.csv
+
+# IDE / OS
+.vscode/
+*.DS_Store
+Thumbs.db
+driver_fixing.lock
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs e diagnósticos temporários
+*.txt
+*.log
+residual_analysis/
+share/
+downloaded_files/
+
+.venv/
+Lib/
+Include/
+Scripts/
+pyvenv.cfg

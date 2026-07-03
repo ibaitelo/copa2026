@@ -1,0 +1,73 @@
+match_id,date,competition,confederation,match_type,season,home_away,team,opponent,gols_marcados,gols_sofridos,shots,shots_on_goal,blocked_shots,ball_possession,fouls,yellow_cards,red_cards,corners,offsides,passes_accurate,saves,has_shot_data
+1138697,2024-01-13,AFCON 2023,CAF,tournament,2023,home,Ivory Coast,Guinea-Bissau,2,0,10,4,3,61.0,10,2.0,,6,2.0,498,3.0,True
+1138699,2024-01-14,AFCON 2023,CAF,tournament,2023,home,Egypt,Mozambique,2,2,21,5,6,61.0,9,1.0,,7,0.0,473,0.0,True
+1138700,2024-01-14,AFCON 2023,CAF,tournament,2023,home,Ghana,Cape Verde,1,2,10,1,3,47.0,17,3.0,,2,3.0,277,3.0,True
+1138700,2024-01-14,AFCON 2023,CAF,tournament,2023,away,Cape Verde,Ghana,2,1,15,5,7,53.0,15,3.0,,5,3.0,319,0.0,True
+1138701,2024-01-15,AFCON 2023,CAF,tournament,2023,home,Senegal,Gambia,3,0,12,5,3,66.0,13,2.0,0.0,5,1.0,359,2.0,True
+1138703,2024-01-15,AFCON 2023,CAF,tournament,2023,home,Algeria,Angola,1,1,16,3,6,66.0,11,4.0,,14,4.0,442,0.0,True
+1138705,2024-01-16,AFCON 2023,CAF,tournament,2023,home,Tunisia,Namibia,0,1,10,4,2,61.0,12,,,8,4.0,339,3.0,True
+1138706,2024-01-16,AFCON 2023,CAF,tournament,2023,away,South Africa,Mali,0,2,12,6,1,54.0,11,2.0,,3,1.0,404,5.0,True
+1138707,2024-01-17,AFCON 2023,CAF,tournament,2023,home,Morocco,Tanzania,3,0,14,7,2,52.0,12,2.0,0.0,5,,404,0.0,True
+1138708,2024-01-17,AFCON 2023,CAF,tournament,2023,home,DR Congo,Zambia,1,1,25,6,6,56.0,10,1.0,,7,1.0,393,0.0,True
+1138710,2024-01-18,AFCON 2023,CAF,tournament,2023,home,Ivory Coast,Nigeria,0,1,14,3,1,64.0,16,0.0,,5,3.0,367,0.0,True
+1138712,2024-01-18,AFCON 2023,CAF,tournament,2023,home,Egypt,Ghana,2,2,11,5,3,58.0,14,0.0,,3,2.0,369,1.0,True
+1138712,2024-01-18,AFCON 2023,CAF,tournament,2023,away,Ghana,Egypt,2,2,6,3,1,42.0,20,1.0,,4,1.0,262,3.0,True
+1138714,2024-01-19,AFCON 2023,CAF,tournament,2023,home,Cape Verde,Mozambique,3,0,11,5,2,49.0,17,1.0,,1,3.0,363,2.0,True
+1138711,2024-01-19,AFCON 2023,CAF,tournament,2023,home,Senegal,Cameroon,3,1,5,3,1,47.0,14,1.0,,8,3.0,257,,True
+1138715,2024-01-20,AFCON 2023,CAF,tournament,2023,home,Algeria,Burkina Faso,2,2,15,4,4,64.0,13,2.0,,4,1.0,367,1.0,True
+1138717,2024-01-20,AFCON 2023,CAF,tournament,2023,home,Tunisia,Mali,1,1,5,1,2,39.0,13,2.0,,3,1.0,216,,True
+1138718,2024-01-21,AFCON 2023,CAF,tournament,2023,home,Morocco,DR Congo,1,1,11,4,2,54.0,17,3.0,,3,,323,1.0,True
+1138718,2024-01-21,AFCON 2023,CAF,tournament,2023,away,DR Congo,Morocco,1,1,10,2,1,46.0,17,1.0,,5,,239,3.0,True
+1138720,2024-01-21,AFCON 2023,CAF,tournament,2023,home,South Africa,Namibia,4,0,12,8,2,51.0,19,1.0,,6,2.0,256,1.0,True
+1138721,2024-01-22,AFCON 2023,CAF,tournament,2023,away,Ivory Coast,Equatorial Guinea,0,4,22,3,3,68.0,21,2.0,,11,2.0,325,3.0,True
+1138723,2024-01-22,AFCON 2023,CAF,tournament,2023,away,Ghana,Mozambique,2,2,8,4,3,39.0,32,5.0,,3,0.0,180,2.0,True
+1138724,2024-01-22,AFCON 2023,CAF,tournament,2023,home,Cape Verde,Egypt,2,2,6,3,3,47.0,8,1.0,,4,3.0,331,5.0,True
+1138724,2024-01-22,AFCON 2023,CAF,tournament,2023,away,Egypt,Cape Verde,2,2,27,7,12,53.0,10,2.0,,8,1.0,386,1.0,True
+1138725,2024-01-23,AFCON 2023,CAF,tournament,2023,away,Senegal,Guinea,2,0,12,2,6,49.0,15,2.0,,6,1.0,301,1.0,True
+1138728,2024-01-23,AFCON 2023,CAF,tournament,2023,away,Algeria,Mauritania,0,1,16,6,2,75.0,15,3.0,,6,2.0,463,6.0,True
+1138729,2024-01-24,AFCON 2023,CAF,tournament,2023,home,South Africa,Tunisia,0,0,11,2,3,45.0,13,,,5,1.0,299,2.0,True
+1138729,2024-01-24,AFCON 2023,CAF,tournament,2023,away,Tunisia,South Africa,0,0,11,2,3,55.0,9,,,6,1.0,367,2.0,True
+1138731,2024-01-24,AFCON 2023,CAF,tournament,2023,away,DR Congo,Tanzania,0,0,9,3,2,49.0,9,1.0,,4,1.0,366,0.0,True
+1138732,2024-01-24,AFCON 2023,CAF,tournament,2023,away,Morocco,Zambia,1,0,19,7,3,58.0,17,1.0,,7,1.0,438,2.0,True
+1166110,2024-01-29,AFCON 2023,CAF,tournament,2023,home,Cape Verde,Mauritania,1,0,18,4,9,69.0,18,1.0,,11,,381,0.0,True
+1166113,2024-01-30,AFCON 2023,CAF,tournament,2023,home,Morocco,South Africa,0,2,13,2,6,54.0,12,1.0,1.0,6,4.0,372,1.0,True
+1166113,2024-01-30,AFCON 2023,CAF,tournament,2023,away,South Africa,Morocco,2,0,5,3,0,46.0,17,3.0,0.0,2,4.0,335,2.0,True
+1169262,2024-02-02,AFCON 2023,CAF,tournament,2023,home,DR Congo,Guinea,3,1,12,3,4,37.0,15,1.0,,3,,182,2.0,True
+1171549,2024-02-07,AFCON 2023,CAF,tournament,2023,home,Ivory Coast,DR Congo,1,0,14,2,2,57.0,13,,,6,0.0,311,2.0,True
+1171549,2024-02-07,AFCON 2023,CAF,tournament,2023,away,DR Congo,Ivory Coast,0,1,7,2,1,43.0,17,,,6,1.0,206,1.0,True
+1172283,2024-02-11,AFCON 2023,CAF,tournament,2023,away,Ivory Coast,Nigeria,2,1,18,8,2,62.0,15,3.0,,5,,355,0.0,True
+1347239,2025-12-21,AFCON 2025,CAF,tournament,2025,home,Morocco,Comoros,2,0,16,7,5,70.0,10,3.0,,5,2.0,582,2.0,True
+1347242,2025-12-22,AFCON 2025,CAF,tournament,2025,home,South Africa,Angola,2,1,10,4,2,58.0,17,2.0,,1,1.0,390,3.0,True
+1347241,2025-12-22,AFCON 2025,CAF,tournament,2025,home,Egypt,Zimbabwe,2,1,35,11,11,78.0,13,2.0,,8,3.0,600,2.0,True
+1347246,2025-12-23,AFCON 2025,CAF,tournament,2025,home,DR Congo,Benin,1,0,11,3,3,40.0,16,3.0,,5,1.0,224,2.0,True
+1347245,2025-12-23,AFCON 2025,CAF,tournament,2025,home,Senegal,Botswana,3,0,28,17,5,68.0,16,1.0,,7,1.0,582,0.0,True
+1347244,2025-12-23,AFCON 2025,CAF,tournament,2025,home,Tunisia,Uganda,3,1,15,6,3,49.0,15,1.0,,8,0.0,344,0.0,True
+1347247,2025-12-24,AFCON 2025,CAF,tournament,2025,home,Algeria,Sudan,3,0,14,7,2,58.0,16,0.0,0.0,11,3.0,405,2.0,True
+1347249,2025-12-24,AFCON 2025,CAF,tournament,2025,home,Ivory Coast,Mozambique,1,0,15,5,3,54.0,17,1.0,,9,,486,2.0,True
+1347253,2025-12-26,AFCON 2025,CAF,tournament,2025,home,Egypt,South Africa,1,0,6,3,1,36.0,10,2.0,1.0,4,0.0,245,6.0,True
+1347253,2025-12-26,AFCON 2025,CAF,tournament,2025,away,South Africa,Egypt,0,1,18,6,3,64.0,9,3.0,0.0,7,4.0,475,2.0,True
+1347251,2025-12-26,AFCON 2025,CAF,tournament,2025,home,Morocco,Mali,1,1,15,4,4,62.0,15,1.0,,6,2.0,398,0.0,True
+1347257,2025-12-27,AFCON 2025,CAF,tournament,2025,home,Senegal,DR Congo,1,1,11,3,2,64.0,18,1.0,,5,2.0,439,2.0,True
+1347257,2025-12-27,AFCON 2025,CAF,tournament,2025,away,DR Congo,Senegal,1,1,7,3,1,36.0,12,0.0,,2,1.0,218,2.0,True
+1347255,2025-12-27,AFCON 2025,CAF,tournament,2025,away,Tunisia,Nigeria,2,3,8,2,1,41.0,15,0.0,,6,1.0,237,2.0,True
+1347259,2025-12-28,AFCON 2025,CAF,tournament,2025,home,Algeria,Burkina Faso,1,0,10,5,2,49.0,24,2.0,,2,1.0,321,2.0,True
+1347261,2025-12-28,AFCON 2025,CAF,tournament,2025,home,Ivory Coast,Cameroon,1,1,13,2,5,51.0,18,2.0,,7,,281,2.0,True
+1347266,2025-12-29,AFCON 2025,CAF,tournament,2025,away,South Africa,Zimbabwe,3,2,16,9,2,66.0,11,1.0,,3,1.0,404,2.0,True
+1347265,2025-12-29,AFCON 2025,CAF,tournament,2025,away,Egypt,Angola,0,0,5,2,0,56.0,11,2.0,,2,2.0,324,5.0,True
+1347263,2025-12-29,AFCON 2025,CAF,tournament,2025,away,Morocco,Zambia,3,0,19,9,3,57.0,12,1.0,,5,4.0,417,0.0,True
+1347268,2025-12-30,AFCON 2025,CAF,tournament,2025,away,Tunisia,Tanzania,1,1,6,2,1,64.0,14,1.0,,2,0.0,427,1.0,True
+1347269,2025-12-30,AFCON 2025,CAF,tournament,2025,away,Senegal,Benin,3,0,10,6,0,51.0,19,1.0,1.0,4,,351,4.0,True
+1347270,2025-12-30,AFCON 2025,CAF,tournament,2025,away,DR Congo,Botswana,3,0,28,6,3,55.0,16,,,3,2.0,481,1.0,True
+1347271,2025-12-31,AFCON 2025,CAF,tournament,2025,away,Algeria,Equatorial Guinea,3,1,16,6,5,55.0,15,1.0,,5,0.0,484,2.0,True
+1347273,2025-12-31,AFCON 2025,CAF,tournament,2025,away,Ivory Coast,Gabon,3,2,21,5,6,67.0,19,2.0,,8,3.0,523,1.0,True
+1501834,2026-01-03,AFCON 2025,CAF,tournament,2025,home,Senegal,Sudan,3,1,14,9,1,67.0,22,2.0,,7,3.0,410,2.0,True
+1501836,2026-01-04,AFCON 2025,CAF,tournament,2025,home,Morocco,Tanzania,1,0,12,4,2,71.0,12,1.0,,4,2.0,530,1.0,True
+1501837,2026-01-04,AFCON 2025,CAF,tournament,2025,home,South Africa,Cameroon,1,2,18,4,6,66.0,14,5.0,,6,3.0,442,2.0,True
+1501841,2026-01-06,AFCON 2025,CAF,tournament,2025,home,Ivory Coast,Burkina Faso,3,0,21,4,5,58.0,20,2.0,,5,,431,2.0,True
+1502450,2026-01-09,AFCON 2025,CAF,tournament,2025,away,Senegal,Mali,1,0,19,8,6,65.0,14,5.0,0.0,7,1.0,437,2.0,True
+1502467,2026-01-09,AFCON 2025,CAF,tournament,2025,away,Morocco,Cameroon,2,0,9,3,3,41.0,24,2.0,,7,1.0,158,0.0,True
+1503401,2026-01-10,AFCON 2025,CAF,tournament,2025,home,Algeria,Nigeria,0,2,3,0,1,43.0,23,5.0,,2,2.0,236,3.0,True
+1503402,2026-01-10,AFCON 2025,CAF,tournament,2025,home,Egypt,Ivory Coast,3,2,6,4,1,29.0,10,2.0,,3,2.0,182,3.0,True
+1503402,2026-01-10,AFCON 2025,CAF,tournament,2025,away,Ivory Coast,Egypt,2,3,13,4,6,71.0,15,0.0,,7,1.0,519,1.0,True
+1505616,2026-01-14,AFCON 2025,CAF,tournament,2025,home,Senegal,Egypt,1,0,12,4,4,63.0,10,2.0,,6,1.0,468,1.0,True
+1505616,2026-01-14,AFCON 2025,CAF,tournament,2025,away,Egypt,Senegal,0,1,3,1,1,37.0,11,1.0,,1,1.0,215,3.0,True
