@@ -1,0 +1,940 @@
+{
+  "issues": [
+    {
+      "severity": "HIGH",
+      "code": "LOW_COVERAGE",
+      "team": "Argentina",
+      "msg": "opp_saves_decay cobertura baixa (0%)",
+      "value": 0.0
+    },
+    {
+      "severity": "HIGH",
+      "code": "LOW_COVERAGE",
+      "team": "Brazil",
+      "msg": "opp_saves_decay cobertura baixa (0%)",
+      "value": 0.0
+    },
+    {
+      "severity": "HIGH",
+      "code": "LOW_COVERAGE",
+      "team": "Colombia",
+      "msg": "opp_saves_decay cobertura baixa (0%)",
+      "value": 0.0
+    },
+    {
+      "severity": "HIGH",
+      "code": "LOW_COVERAGE",
+      "team": "Ecuador",
+      "msg": "opp_saves_decay cobertura baixa (0%)",
+      "value": 0.0
+    },
+    {
+      "severity": "HIGH",
+      "code": "LOW_COVERAGE",
+      "team": "Uruguay",
+      "msg": "opp_saves_decay cobertura baixa (0%)",
+      "value": 0.0
+    },
+    {
+      "severity": "HIGH",
+      "code": "LOW_COVERAGE",
+      "team": "Paraguay",
+      "msg": "opp_saves_decay cobertura baixa (0%)",
+      "value": 0.0
+    },
+    {
+      "severity": "HIGH",
+      "code": "LOW_COVERAGE",
+      "team": "Germany",
+      "msg": "opp_saves_decay cobertura baixa (0%)",
+      "value": 0.0
+    },
+    {
+      "severity": "HIGH",
+      "code": "LOW_COVERAGE",
+      "team": "France",
+      "msg": "opp_saves_decay cobertura baixa (0%)",
+      "value": 0.0
+    },
+    {
+      "severity": "HIGH",
+      "code": "LOW_COVERAGE",
+      "team": "Spain",
+      "msg": "opp_saves_decay cobertura baixa (0%)",
+      "value": 0.0
+    },
+    {
+      "severity": "HIGH",
+      "code": "LOW_COVERAGE",
+      "team": "England",
+      "msg": "opp_saves_decay cobertura baixa (0%)",
+      "value": 0.0
+    },
+    {
+      "severity": "HIGH",
+      "code": "LOW_COVERAGE",
+      "team": "Netherlands",
+      "msg": "opp_saves_decay cobertura baixa (0%)",
+      "value": 0.0
+    },
+    {
+      "severity": "HIGH",
+      "code": "LOW_COVERAGE",
+      "team": "Portugal",
+      "msg": "opp_saves_decay cobertura baixa (0%)",
+      "value": 0.0
+    },
+    {
+      "severity": "HIGH",
+      "code": "LOW_COVERAGE",
+      "team": "Belgium",
+      "msg": "opp_saves_decay cobertura baixa (0%)",
+      "value": 0.0
+    },
+    {
+      "severity": "HIGH",
+      "code": "LOW_COVERAGE",
+      "team": "Austria",
+      "msg": "opp_saves_decay cobertura baixa (0%)",
+      "value": 0.0
+    },
+    {
+      "severity": "HIGH",
+      "code": "LOW_COVERAGE",
+      "team": "Switzerland",
+      "msg": "opp_saves_decay cobertura baixa (0%)",
+      "value": 0.0
+    },
+    {
+      "severity": "HIGH",
+      "code": "LOW_COVERAGE",
+      "team": "Croatia",
+      "msg": "opp_saves_decay cobertura baixa (0%)",
+      "value": 0.0
+    },
+    {
+      "severity": "HIGH",
+      "code": "LOW_COVERAGE",
+      "team": "Norway",
+      "msg": "opp_saves_decay cobertura baixa (0%)",
+      "value": 0.0
+    },
+    {
+      "severity": "HIGH",
+      "code": "LOW_COVERAGE",
+      "team": "Sweden",
+      "msg": "opp_saves_decay cobertura baixa (0%)",
+      "value": 0.0
+    },
+    {
+      "severity": "HIGH",
+      "code": "LOW_COVERAGE",
+      "team": "Czech Republic",
+      "msg": "opp_saves_decay cobertura baixa (0%)",
+      "value": 0.0
+    },
+    {
+      "severity": "HIGH",
+      "code": "LOW_COVERAGE",
+      "team": "Turkey",
+      "msg": "opp_saves_decay cobertura baixa (0%)",
+      "value": 0.0
+    },
+    {
+      "severity": "HIGH",
+      "code": "LOW_COVERAGE",
+      "team": "Scotland",
+      "msg": "opp_saves_decay cobertura baixa (0%)",
+      "value": 0.0
+    },
+    {
+      "severity": "HIGH",
+      "code": "LOW_COVERAGE",
+      "team": "Bosnia and Herzegovina",
+      "msg": "opp_saves_decay cobertura baixa (0%)",
+      "value": 0.0
+    },
+    {
+      "severity": "HIGH",
+      "code": "LOW_COVERAGE",
+      "team": "Japan",
+      "msg": "opp_saves_decay cobertura baixa (0%)",
+      "value": 0.0
+    },
+    {
+      "severity": "HIGH",
+      "code": "LOW_COVERAGE",
+      "team": "South Korea",
+      "msg": "opp_saves_decay cobertura baixa (0%)",
+      "value": 0.0
+    },
+    {
+      "severity": "HIGH",
+      "code": "LOW_COVERAGE",
+      "team": "Iran",
+      "msg": "opp_saves_decay cobertura baixa (0%)",
+      "value": 0.0
+    },
+    {
+      "severity": "HIGH",
+      "code": "LOW_COVERAGE",
+      "team": "Australia",
+      "msg": "opp_saves_decay cobertura baixa (0%)",
+      "value": 0.0
+    },
+    {
+      "severity": "HIGH",
+      "code": "LOW_COVERAGE",
+      "team": "Saudi Arabia",
+      "msg": "opp_saves_decay cobertura baixa (0%)",
+      "value": 0.0
+    },
+    {
+      "severity": "HIGH",
+      "code": "LOW_COVERAGE",
+      "team": "Uzbekistan",
+      "msg": "opp_saves_decay cobertura baixa (0%)",
+      "value": 0.0
+    },
+    {
+      "severity": "HIGH",
+      "code": "LOW_COVERAGE",
+      "team": "Jordan",
+      "msg": "opp_saves_decay cobertura baixa (0%)",
+      "value": 0.0
+    },
+    {
+      "severity": "HIGH",
+      "code": "LOW_COVERAGE",
+      "team": "Iraq",
+      "msg": "opp_saves_decay cobertura baixa (0%)",
+      "value": 0.0
+    },
+    {
+      "severity": "HIGH",
+      "code": "LOW_COVERAGE",
+      "team": "Qatar",
+      "msg": "opp_saves_decay cobertura baixa (0%)",
+      "value": 0.0
+    },
+    {
+      "severity": "HIGH",
+      "code": "LOW_COVERAGE",
+      "team": "Morocco",
+      "msg": "opp_saves_decay cobertura baixa (0%)",
+      "value": 0.0
+    },
+    {
+      "severity": "HIGH",
+      "code": "LOW_COVERAGE",
+      "team": "Senegal",
+      "msg": "opp_saves_decay cobertura baixa (0%)",
+      "value": 0.0
+    },
+    {
+      "severity": "HIGH",
+      "code": "LOW_COVERAGE",
+      "team": "Egypt",
+      "msg": "opp_saves_decay cobertura baixa (0%)",
+      "value": 0.0
+    },
+    {
+      "severity": "HIGH",
+      "code": "LOW_COVERAGE",
+      "team": "Ghana",
+      "msg": "opp_saves_decay cobertura baixa (0%)",
+      "value": 0.0
+    },
+    {
+      "severity": "HIGH",
+      "code": "LOW_COVERAGE",
+      "team": "Cape Verde",
+      "msg": "opp_saves_decay cobertura baixa (0%)",
+      "value": 0.0
+    },
+    {
+      "severity": "HIGH",
+      "code": "LOW_COVERAGE",
+      "team": "DR Congo",
+      "msg": "opp_saves_decay cobertura baixa (0%)",
+      "value": 0.0
+    },
+    {
+      "severity": "HIGH",
+      "code": "LOW_COVERAGE",
+      "team": "Ivory Coast",
+      "msg": "opp_saves_decay cobertura baixa (0%)",
+      "value": 0.0
+    },
+    {
+      "severity": "HIGH",
+      "code": "LOW_COVERAGE",
+      "team": "South Africa",
+      "msg": "opp_saves_decay cobertura baixa (0%)",
+      "value": 0.0
+    },
+    {
+      "severity": "HIGH",
+      "code": "LOW_COVERAGE",
+      "team": "Algeria",
+      "msg": "opp_saves_decay cobertura baixa (0%)",
+      "value": 0.0
+    },
+    {
+      "severity": "HIGH",
+      "code": "LOW_COVERAGE",
+      "team": "Tunisia",
+      "msg": "opp_saves_decay cobertura baixa (0%)",
+      "value": 0.0
+    },
+    {
+      "severity": "HIGH",
+      "code": "LOW_COVERAGE",
+      "team": "United States",
+      "msg": "opp_saves_decay cobertura baixa (0%)",
+      "value": 0.0
+    },
+    {
+      "severity": "HIGH",
+      "code": "LOW_COVERAGE",
+      "team": "Mexico",
+      "msg": "opp_saves_decay cobertura baixa (0%)",
+      "value": 0.0
+    },
+    {
+      "severity": "HIGH",
+      "code": "LOW_COVERAGE",
+      "team": "Canada",
+      "msg": "opp_saves_decay cobertura baixa (0%)",
+      "value": 0.0
+    },
+    {
+      "severity": "HIGH",
+      "code": "LOW_COVERAGE",
+      "team": "Panama",
+      "msg": "opp_saves_decay cobertura baixa (0%)",
+      "value": 0.0
+    },
+    {
+      "severity": "HIGH",
+      "code": "LOW_COVERAGE",
+      "team": "Curacao",
+      "msg": "opp_saves_decay cobertura baixa (0%)",
+      "value": 0.0
+    },
+    {
+      "severity": "HIGH",
+      "code": "LOW_COVERAGE",
+      "team": "Haiti",
+      "msg": "opp_saves_decay cobertura baixa (0%)",
+      "value": 0.0
+    },
+    {
+      "severity": "HIGH",
+      "code": "LOW_COVERAGE",
+      "team": "New Zealand",
+      "msg": "opp_saves_decay cobertura baixa (0%)",
+      "value": 0.0
+    },
+    {
+      "severity": "HIGH",
+      "code": "MANY_OUTLIERS",
+      "team": "shots_on_goal_decay",
+      "msg": "Muitos outliers IQR3: 70 obs",
+      "value": 70.0
+    },
+    {
+      "severity": "HIGH",
+      "code": "MANY_OUTLIERS",
+      "team": "gols_sofridos_decay",
+      "msg": "Muitos outliers IQR3: 37 obs",
+      "value": 37.0
+    },
+    {
+      "severity": "HIGH",
+      "code": "MANY_OUTLIERS",
+      "team": "delta_rating_decay",
+      "msg": "Muitos outliers IQR3: 453 obs",
+      "value": 453.0
+    },
+    {
+      "severity": "MEDIUM",
+      "code": "SOME_OUTLIERS",
+      "team": "gls_ponderado_decay",
+      "msg": "Alguns outliers IQR3: 7 obs",
+      "value": 7.0
+    },
+    {
+      "severity": "MEDIUM",
+      "code": "SOME_OUTLIERS",
+      "team": "gls_decay_vs_forte",
+      "msg": "Alguns outliers IQR3: 19 obs",
+      "value": 19.0
+    },
+    {
+      "severity": "MEDIUM",
+      "code": "SOME_OUTLIERS",
+      "team": "gls_decay_vs_fraco",
+      "msg": "Alguns outliers IQR3: 7 obs",
+      "value": 7.0
+    },
+    {
+      "severity": "MEDIUM",
+      "code": "SOME_OUTLIERS",
+      "team": "margem_gols_decay",
+      "msg": "Alguns outliers IQR3: 19 obs",
+      "value": 19.0
+    },
+    {
+      "severity": "MEDIUM",
+      "code": "HIGH_CORR",
+      "team": "gols_sofridos_decay↔margem_gols_decay",
+      "msg": "Correlação alta (-0.72) — risco de colinearidade",
+      "value": -0.7219951260775415
+    },
+    {
+      "severity": "MEDIUM",
+      "code": "HIGH_CORR",
+      "team": "elo_diff_decay↔margem_gols_decay",
+      "msg": "Correlação alta (0.75) — risco de colinearidade",
+      "value": 0.7505936928330096
+    },
+    {
+      "severity": "MEDIUM",
+      "code": "HIGH_CORR",
+      "team": "gls_ponderado_decay↔gls_decay_vs_fraco",
+      "msg": "Correlação alta (0.86) — risco de colinearidade",
+      "value": 0.8626958640848246
+    },
+    {
+      "severity": "MEDIUM",
+      "code": "HIGH_CORR",
+      "team": "gls_ponderado_decay↔margem_gols_decay",
+      "msg": "Correlação alta (0.82) — risco de colinearidade",
+      "value": 0.8185241276070374
+    },
+    {
+      "severity": "MEDIUM",
+      "code": "HIGH_CORR",
+      "team": "gls_decay_vs_fraco↔margem_gols_decay",
+      "msg": "Correlação alta (0.70) — risco de colinearidade",
+      "value": 0.7028264973530854
+    },
+    {
+      "severity": "INFO",
+      "code": "LOW_SHAP",
+      "team": "conf_OFC",
+      "msg": "Importância SHAP muito baixa (0.0042)",
+      "value": 0.004170749802142382
+    },
+    {
+      "severity": "INFO",
+      "code": "LOW_SHAP",
+      "team": "conf_AFC",
+      "msg": "Importância SHAP muito baixa (0.0034)",
+      "value": 0.003439262742176652
+    },
+    {
+      "severity": "INFO",
+      "code": "LOW_SHAP",
+      "team": "conf_CONCACAF",
+      "msg": "Importância SHAP muito baixa (0.0024)",
+      "value": 0.0024476535618305206
+    },
+    {
+      "severity": "HIGH",
+      "code": "CALIBRATION_BIAS",
+      "team": "AFC",
+      "msg": "Viés sistemático alto: pred=2.63 vs real=1.41",
+      "value": 1.2223814122220302
+    },
+    {
+      "severity": "HIGH",
+      "code": "CALIBRATION_BIAS",
+      "team": "CAF",
+      "msg": "Viés sistemático alto: pred=1.79 vs real=1.26",
+      "value": 0.5251043412996375
+    },
+    {
+      "severity": "HIGH",
+      "code": "CALIBRATION_BIAS",
+      "team": "CONCACAF",
+      "msg": "Viés sistemático alto: pred=2.69 vs real=1.53",
+      "value": 1.1599844715051484
+    },
+    {
+      "severity": "HIGH",
+      "code": "CALIBRATION_BIAS",
+      "team": "CONMEBOL",
+      "msg": "Viés sistemático alto: pred=2.10 vs real=1.00",
+      "value": 1.097060203552246
+    },
+    {
+      "severity": "HIGH",
+      "code": "CALIBRATION_BIAS",
+      "team": "OFC",
+      "msg": "Viés sistemático alto: pred=2.97 vs real=2.11",
+      "value": 0.8629852094148336
+    },
+    {
+      "severity": "HIGH",
+      "code": "CALIBRATION_BIAS",
+      "team": "UEFA",
+      "msg": "Viés sistemático alto: pred=2.52 vs real=1.55",
+      "value": 0.966652469525392
+    },
+    {
+      "severity": "HIGH",
+      "code": "WC_CALIBRATION",
+      "team": "Copa2026",
+      "msg": "Viés no ajuste Copa 2026: pred=2.75 real=1.49",
+      "value": 1.2574372556474473
+    },
+    {
+      "severity": "MEDIUM",
+      "code": "SOT_INCONSISTENT",
+      "team": "Sweden",
+      "msg": "Time fraco (ELO=1693) mas shots_on_goal_decay alto=6.41",
+      "value": 6.405853113548212
+    },
+    {
+      "severity": "MEDIUM",
+      "code": "SOT_INCONSISTENT",
+      "team": "Curacao",
+      "msg": "Time fraco (ELO=1604) mas shots_on_goal_decay alto=6.23",
+      "value": 6.225123010259999
+    },
+    {
+      "severity": "MEDIUM",
+      "code": "SOT_INCONSISTENT",
+      "team": "Qatar",
+      "msg": "Time fraco (ELO=1590) mas shots_on_goal_decay alto=5.30",
+      "value": 5.302486665407812
+    }
+  ],
+  "by_code": {
+    "LOW_COVERAGE": 48,
+    "MANY_OUTLIERS": 3,
+    "SOME_OUTLIERS": 4,
+    "HIGH_CORR": 5,
+    "LOW_SHAP": 3,
+    "CALIBRATION_BIAS": 6,
+    "WC_CALIBRATION": 1,
+    "SOT_INCONSISTENT": 3
+  },
+  "outliers": {
+    "shots_on_goal_decay": {
+      "n_iqr3": 70,
+      "n_z4": 13,
+      "mean": 4.371459748829408,
+      "std": 1.3624929236871726,
+      "min": 0.0,
+      "max": 13.979534181465883,
+      "p1": 0.9263960244522385,
+      "p99": 8.601134837111589
+    },
+    "gols_sofridos_decay": {
+      "n_iqr3": 37,
+      "n_z4": 21,
+      "mean": 1.2727797536092917,
+      "std": 0.8751715449307151,
+      "min": 0.0,
+      "max": 9.0,
+      "p1": 0.0,
+      "p99": 4.405800224079348
+    },
+    "elo_diff_decay": {
+      "n_iqr3": 0,
+      "n_z4": 0,
+      "mean": 23.473063636166458,
+      "std": 190.59685765552902,
+      "min": -710.9599999999998,
+      "max": 708.95,
+      "p1": -537.1156839123937,
+      "p99": 423.85394180058023
+    },
+    "delta_rating_decay": {
+      "n_iqr3": 453,
+      "n_z4": 11,
+      "mean": 0.0883164121375075,
+      "std": 0.3633985126725866,
+      "min": -1.5812999999999997,
+      "max": 1.5812999999999997,
+      "p1": -1.113294674777241,
+      "p99": 0.9796360105040126
+    },
+    "gls_ponderado_decay": {
+      "n_iqr3": 7,
+      "n_z4": 6,
+      "mean": 1.3335895124289499,
+      "std": 0.6805329477088914,
+      "min": 0.0,
+      "max": 5.652296232035414,
+      "p1": 0.0,
+      "p99": 3.2495400891691735
+    },
+    "gls_decay_vs_forte": {
+      "n_iqr3": 19,
+      "n_z4": 12,
+      "mean": 0.8917417270269464,
+      "std": 0.5019850570865091,
+      "min": 0.0,
+      "max": 4.206878747887713,
+      "p1": 0.0,
+      "p99": 2.5429290035011127
+    },
+    "gls_decay_vs_fraco": {
+      "n_iqr3": 7,
+      "n_z4": 7,
+      "mean": 1.7303471757759288,
+      "std": 0.8744265931524831,
+      "min": 0.0,
+      "max": 6.740966841594374,
+      "p1": 0.0,
+      "p99": 4.299124861229247
+    },
+    "margem_gols_decay": {
+      "n_iqr3": 19,
+      "n_z4": 9,
+      "mean": 0.10607318528308787,
+      "std": 1.197549235435971,
+      "min": -6.991000060749508,
+      "max": 5.423396657598247,
+      "p1": -3.589806056494483,
+      "p99": 2.770888560791735
+    }
+  },
+  "calibration": {
+    "AFC": {
+      "mae": 1.6132165814967865,
+      "mean_pred": 2.6287643909454346,
+      "mean_real": 1.4063829787234043,
+      "bias": 1.2223814122220302,
+      "n": 470
+    },
+    "CAF": {
+      "mae": 1.129561398772226,
+      "mean_pred": 1.7859739065170288,
+      "mean_real": 1.2608695652173914,
+      "bias": 0.5251043412996375,
+      "n": 552
+    },
+    "CONCACAF": {
+      "mae": 1.6173539525061322,
+      "mean_pred": 2.6906862258911133,
+      "mean_real": 1.530701754385965,
+      "bias": 1.1599844715051484,
+      "n": 228
+    },
+    "CONMEBOL": {
+      "mae": 1.3432207998662893,
+      "mean_pred": 2.097060203552246,
+      "mean_real": 1.0,
+      "bias": 1.097060203552246,
+      "n": 202
+    },
+    "OFC": {
+      "mae": 1.4754940334119295,
+      "mean_pred": 2.9682483673095703,
+      "mean_real": 2.1052631578947367,
+      "bias": 0.8629852094148336,
+      "n": 38
+    },
+    "UEFA": {
+      "mae": 1.3585268215201367,
+      "mean_pred": 2.516077756881714,
+      "mean_real": 1.549425287356322,
+      "bias": 0.966652469525392,
+      "n": 870
+    }
+  },
+  "shap": {
+    "opp_saves_decay": 0.562413,
+    "elo_diff_decay": 0.141265,
+    "delta_rating_decay": 0.047941,
+    "gls_decay_vs_forte": 0.044287,
+    "gls_ponderado_decay": 0.039958,
+    "margem_gols_decay": 0.037676,
+    "gols_sofridos_decay": 0.035246,
+    "gls_decay_vs_fraco": 0.032544,
+    "shots_on_goal_decay": 0.028878,
+    "conf_CAF": 0.028045,
+    "conf_CONMEBOL": 0.023233,
+    "conf_UEFA": 0.022332,
+    "conf_OFC": 0.004171,
+    "conf_AFC": 0.003439,
+    "conf_CONCACAF": 0.002448
+  },
+  "corr_issues": [
+    {
+      "f1": "gols_sofridos_decay",
+      "f2": "margem_gols_decay",
+      "r": -0.722
+    },
+    {
+      "f1": "elo_diff_decay",
+      "f2": "margem_gols_decay",
+      "r": 0.7506
+    },
+    {
+      "f1": "gls_ponderado_decay",
+      "f2": "gls_decay_vs_fraco",
+      "r": 0.8627
+    },
+    {
+      "f1": "gls_ponderado_decay",
+      "f2": "margem_gols_decay",
+      "r": 0.8185
+    },
+    {
+      "f1": "gls_decay_vs_fraco",
+      "f2": "margem_gols_decay",
+      "r": 0.7028
+    }
+  ],
+  "coverage": {
+    "Argentina": {
+      "n_total": 26,
+      "n_copa": 3,
+      "last_obs": "2026-06-28"
+    },
+    "Brazil": {
+      "n_total": 30,
+      "n_copa": 3,
+      "last_obs": "2026-06-24"
+    },
+    "Colombia": {
+      "n_total": 28,
+      "n_copa": 3,
+      "last_obs": "2026-06-27"
+    },
+    "Ecuador": {
+      "n_total": 28,
+      "n_copa": 3,
+      "last_obs": "2026-06-25"
+    },
+    "Uruguay": {
+      "n_total": 27,
+      "n_copa": 3,
+      "last_obs": "2026-06-27"
+    },
+    "Paraguay": {
+      "n_total": 27,
+      "n_copa": 3,
+      "last_obs": "2026-06-26"
+    },
+    "Germany": {
+      "n_total": 32,
+      "n_copa": 3,
+      "last_obs": "2026-06-25"
+    },
+    "France": {
+      "n_total": 32,
+      "n_copa": 3,
+      "last_obs": "2026-06-26"
+    },
+    "Spain": {
+      "n_total": 33,
+      "n_copa": 3,
+      "last_obs": "2026-06-27"
+    },
+    "England": {
+      "n_total": 33,
+      "n_copa": 3,
+      "last_obs": "2026-06-27"
+    },
+    "Netherlands": {
+      "n_total": 35,
+      "n_copa": 3,
+      "last_obs": "2026-06-25"
+    },
+    "Portugal": {
+      "n_total": 28,
+      "n_copa": 3,
+      "last_obs": "2026-06-27"
+    },
+    "Belgium": {
+      "n_total": 34,
+      "n_copa": 3,
+      "last_obs": "2026-06-27"
+    },
+    "Austria": {
+      "n_total": 32,
+      "n_copa": 3,
+      "last_obs": "2026-06-28"
+    },
+    "Switzerland": {
+      "n_total": 33,
+      "n_copa": 3,
+      "last_obs": "2026-06-24"
+    },
+    "Croatia": {
+      "n_total": 31,
+      "n_copa": 3,
+      "last_obs": "2026-06-27"
+    },
+    "Norway": {
+      "n_total": 29,
+      "n_copa": 3,
+      "last_obs": "2026-06-26"
+    },
+    "Sweden": {
+      "n_total": 28,
+      "n_copa": 3,
+      "last_obs": "2026-06-25"
+    },
+    "Czech Republic": {
+      "n_total": 28,
+      "n_copa": 3,
+      "last_obs": "2026-06-25"
+    },
+    "Turkey": {
+      "n_total": 32,
+      "n_copa": 3,
+      "last_obs": "2026-06-26"
+    },
+    "Scotland": {
+      "n_total": 31,
+      "n_copa": 3,
+      "last_obs": "2026-06-24"
+    },
+    "Bosnia and Herzegovina": {
+      "n_total": 26,
+      "n_copa": 3,
+      "last_obs": "2026-06-24"
+    },
+    "Japan": {
+      "n_total": 26,
+      "n_copa": 3,
+      "last_obs": "2026-06-25"
+    },
+    "South Korea": {
+      "n_total": 27,
+      "n_copa": 3,
+      "last_obs": "2026-06-25"
+    },
+    "Iran": {
+      "n_total": 21,
+      "n_copa": 3,
+      "last_obs": "2026-06-27"
+    },
+    "Australia": {
+      "n_total": 25,
+      "n_copa": 3,
+      "last_obs": "2026-06-26"
+    },
+    "Saudi Arabia": {
+      "n_total": 28,
+      "n_copa": 3,
+      "last_obs": "2026-06-27"
+    },
+    "Uzbekistan": {
+      "n_total": 23,
+      "n_copa": 3,
+      "last_obs": "2026-06-27"
+    },
+    "Jordan": {
+      "n_total": 27,
+      "n_copa": 3,
+      "last_obs": "2026-06-28"
+    },
+    "Iraq": {
+      "n_total": 24,
+      "n_copa": 3,
+      "last_obs": "2026-06-26"
+    },
+    "Qatar": {
+      "n_total": 23,
+      "n_copa": 3,
+      "last_obs": "2026-06-24"
+    },
+    "Morocco": {
+      "n_total": 21,
+      "n_copa": 3,
+      "last_obs": "2026-06-24"
+    },
+    "Senegal": {
+      "n_total": 22,
+      "n_copa": 3,
+      "last_obs": "2026-06-26"
+    },
+    "Egypt": {
+      "n_total": 21,
+      "n_copa": 3,
+      "last_obs": "2026-06-27"
+    },
+    "Ghana": {
+      "n_total": 20,
+      "n_copa": 3,
+      "last_obs": "2026-06-27"
+    },
+    "Cape Verde": {
+      "n_total": 17,
+      "n_copa": 3,
+      "last_obs": "2026-06-27"
+    },
+    "DR Congo": {
+      "n_total": 25,
+      "n_copa": 3,
+      "last_obs": "2026-06-27"
+    },
+    "Ivory Coast": {
+      "n_total": 20,
+      "n_copa": 3,
+      "last_obs": "2026-06-25"
+    },
+    "South Africa": {
+      "n_total": 20,
+      "n_copa": 3,
+      "last_obs": "2026-06-25"
+    },
+    "Algeria": {
+      "n_total": 20,
+      "n_copa": 3,
+      "last_obs": "2026-06-28"
+    },
+    "Tunisia": {
+      "n_total": 22,
+      "n_copa": 3,
+      "last_obs": "2026-06-25"
+    },
+    "United States": {
+      "n_total": 22,
+      "n_copa": 3,
+      "last_obs": "2026-06-26"
+    },
+    "Mexico": {
+      "n_total": 20,
+      "n_copa": 3,
+      "last_obs": "2026-06-25"
+    },
+    "Canada": {
+      "n_total": 15,
+      "n_copa": 3,
+      "last_obs": "2026-06-24"
+    },
+    "Panama": {
+      "n_total": 18,
+      "n_copa": 3,
+      "last_obs": "2026-06-27"
+    },
+    "Curacao": {
+      "n_total": 14,
+      "n_copa": 3,
+      "last_obs": "2026-06-25"
+    },
+    "Haiti": {
+      "n_total": 17,
+      "n_copa": 3,
+      "last_obs": "2026-06-24"
+    },
+    "New Zealand": {
+      "n_total": 14,
+      "n_copa": 3,
+      "last_obs": "2026-06-27"
+    }
+  },
+  "mae_global": 1.369565357818662,
+  "rmse_global": 1.622708364599589,
+  "poisson_deviance": 1.7939806782598258
+}
